@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >2000)"
+description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >3000)"
 header-img: "img/molecule.png"
 ---
 
