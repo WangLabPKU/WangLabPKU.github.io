@@ -4,76 +4,90 @@ title: "Publications"
 description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >3000)"
 header-img: "img/molecule.png"
 ---
+- 44: Zhao YT, **Wang Y**. Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. Cell Discov. 2021 Jun 15;7(1):45. doi: 10.1038/s41421-021-00272-3. PMID: 34127653; PMCID: PMC8203696.
 
-- Zhao, Y.T. and *Wang, Y. (2021) Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. **Cell Discovery**, 53, e12914.
+- 43: Wang SH, Zhang C, **Wang Y**. microRNA regulation of pluripotent state transition. Essays Biochem. 2020 Dec 7;64(6):947-954. doi: 10.1042/EBC20200028. PMID: 33034348.
 
-- #Wang, X.W., #Hu, L.F., Hao, J., Liao, L.Q., Chiu, Y.T., Shi, M.and *Wang Y. (2019) A microRNA-inducible CRISPR-Cas9 platform serves as a microRNA sensor and cell-type-specific genome regulation tool. **Nature Cell Biology** 21, 522-530.
+- 42: Hao J, Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, Cao H, **Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. Cell Prolif. 2020 Nov;53(11):e12914. doi: 10.1111/cpr.12914. Epub 2020 Sep 29. PMID: 32990380; PMCID: PMC7653263.
 
-- #Li, Y.P., #Duan, F.F., Zhao, Y.T., Gu, K.L., Liao, L.Q., Su, H.B., Hao, J., Zhang, K., Yang, N. and *Wang Y. (2019) A TRIM71 binding long noncoding RNA Trincr1 represses FGF/ERK signaling in embryonic stem cells. **Nature Communications** 10, 1368.
+- 41: Guo CJ, Ma XK, Xing YH, Zheng CC, Xu YF, Shan L, Zhang J, Wang S, **Wang Y**, Carmichael GG, Yang L, Chen LL. Distinct Processing of lncRNAs Contributes to Non-conserved Functions in Stem Cells. Cell. 2020 Apr 30;181(3):621-636.e22. doi: 10.1016/j.cell.2020.03.006. Epub 2020 Apr 6. PMID: 32259487.
 
-- Guo, W.T. and *Wang Y. (2019) Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. **Cellular and Molecular Life Sciences** doi: 10.1007/s00018-019-03020-9.
+- 40: Wu K, Liu H, **Wang Y**, He J, Xu S, Chen Y, Kuang J, Liu J, Guo L, Li D, Shi R, Shen L, **Wang Y**, Zhang X, Wang J, Pei D, Chen J. SETDB1-Mediated Cell Fate Transition between 2C-Like and Pluripotent States. Cell Rep. 2020 Jan 7;30(1):25-36.e6. doi: 10.1016/j.celrep.2019.12.010. PMID: 31914391.
 
-- Wu, D.R., Gu, K.L., Yu, J.C., Fu, X., Wang, X.W., Guo, W.T., Liao, L.Q., Zhu, H., Zhang, X.S., *Hui J and *Wang Y. (2018) Opposing roles of miR-294 and MBNL1/2 in shaping the gene regulatory network of embryonic stem cells. **EMBO Reports** 19, e45657.
+- 39: Zhang C, Yan YL, Hao J, **Wang Y**. Cellular redox state as a critical factor in initiating early embryonic-like program in embryonic stem cells. Cell Discov. 2019 Dec 10;5:59. doi: 10.1038/s41421-019-0127-5. PMID: 31839984; PMCID: PMC6901566.
 
-- Bao, X., Guo, X., Yin, M., Tariq, M., Lai, Y., Kanwal, S., Zhou, J., Li, N., Lv, Y., Pulido-Quetglas, C., Wang, X., Ji, L., Khan, M.J., Zhu, X., Luo, Z., Shao, C., Lim, D.H., Liu, X., Li, N., Wang, W., He, M., Liu, Y.L., Ward, C., Wang, T., Zhang, G., Wang, D., Yang, J., Chen, Y., Zhang, C., Jauch, R., Yang, Y.G., Wang, Y., Qin, B., Anko, M.L., Hutchins, A.P., Sun, H., Wang, H., Fu, X.D., Zhang, B., Esteban, M.A. (2018) Capturing the interactome of newly transcribed RNA. **Nature Methods** 15，213-220.
+- 38: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, **Wang Y**, Wang S, Li C. Corrigendum to "Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model" [Stem Cell Research 38 (2019) 101483 Page 1-8]. Stem Cell Res. 2019 Dec;41:101526. doi: 10.1016/j.scr.2019.101526. Epub 2019 Sep 25. Erratum for: Stem Cell Res. 2019 Jul;38:101483. PMID: 31563403.
 
-- Chen, X., Wang, L., Huang, R., Qiu, H., Wang, P., Wu, D., Zhu, Y., Ming, J., Wang, Y., Wang, J. and *Na, J. (2018) Dgcr8 deletion in the primitive heart uncovered novel microRNA regulating the balance of cardiac-vascular gene program. **Protein & Cell** doi: 10.1007/s13238-018-0572-1.
+- 37: Shi M, Hao J, Wang XW, Liao LQ, Cao H, **Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. Int J Mol Sci. 2019 Sep 5;20(18):4345. doi: 10.3390/ijms20184345. PMID: 31491855; PMCID: PMC6770266.
 
-- Jiang, L., Shao, C., Wu, Q.J., Chen, G., Zhou, J., Yang, B., Li, H., Gou, L.T., Zhang, Y., Wang, Y., Yeo, G.W., Zhou, Y., Fu, X.D. (2017) NEAT1 scaffolds RNA-binding proteins and the Microprocessor to globally enhance pri-miRNA processing. **Nature Structural and Molecular Biology** 24，816-824.
+- 36: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, **Wang Y**, Wang S, Li C. Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model. Stem Cell Res. 2019 Jul;38:101483. doi: 10.1016/j.scr.2019.101483. Epub 2019 Jun 11. Erratum in: Stem Cell Res. 2019 Sep 25;:101526. PMID: 31226583.
 
-- Wang, X.W., Hao, J., Guo, W.T., Liao, L.Q., Huang, S., Guo, X., Bao, X., Esteban, M.A. and *Wang, Y. (2017) DGCR8-independent stable microRNA expression strategy reveals important functions of miR-290 and miR-183~182 families in mouse embryonic stem cells. **Stem Cell Reports** 9，1618-1629.
+- 35: Yan YL, Zhang C, Hao J, Wang XL, Ming J, Mi L, Na J, Hu X, **Wang Y**. DPPA2/4 and SUMO E3 ligase PIAS4 opposingly regulate zygotic transcriptional program. PLoS Biol. 2019 Jun 21;17(6):e3000324. doi: 10.1371/journal.pbio.3000324. PMID: 31226106; PMCID: PMC6608977.
 
-- Wei, W., Liu, Y., Zhang, Q., Wang, Y., Zhang, X. and *Zhang H. (2017) Danshen-Enhanced Cardioprotective Effect of Cardioplegia on Ischemia Reperfusion Injury in a Human-Induced Pluripotent Stem Cell-Derived Cardiomyocytes Model. **Artificial Organs** 41:452-460.
+- 34: Guo WT, **Wang Y**. Correction to: Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. Cell Mol Life Sci. 2019 Jun;76(11):2245. doi: 10.1007/s00018-019-03087-4. Erratum for: Cell Mol Life Sci. 2019 May;76(9):1697-1711. PMID: 31037335.
 
-- #Gu, K.L., #Zhang, Q., #Yan, Y., #Li, T.T., Duan, F.F., Hao, J., Wang, X.W., Shi, M., Wu, D.R., Guo, W.T., *Wang, Y. (2016) Pluripotency Associated miR-290/302 Family of microRNAs Promote the Dismantling of Naive Pluripotency. **Cell Research** 26, 350-366.
+- 33: Li YP, Duan FF, Zhao YT, Gu KL, Liao LQ, Su HB, Hao J, Zhang K, Yang N, **Wang Y**. A TRIM71 binding long noncoding RNA Trincr1 represses FGF/ERK signaling in embryonic stem cells. Nat Commun. 2019 Mar 25;10(1):1368. doi: 10.1038/s41467-019-08911-w. PMID: 30911006; PMCID: PMC6433952.
 
-- #Cao, Y., #Guo, W.T., Tian, S., He, X., Wang, X.W., Liu, X., Gu, K.L., Ma, X., Huang, D., Cai, Y.P., Zhang, H., *Wang, Y. and *Gao, P. (2015) miR-290/371-Mbd2-Myc Circuit Regulates Glycolytic Metabolism to Promote Pluripotency. **EMBO Journal** 34, 609-623.
+- 32: Wang XW, Hu LF, Hao J, Liao LQ, Chiu YT, Shi M, **Wang Y**. A microRNA-inducible CRISPR-Cas9 platform serves as a microRNA sensor and cell-type-specific genome regulation tool. Nat Cell Biol. 2019 Apr;21(4):522-530. doi: 10.1038/s41556-019-0292-7. Epub 2019 Feb 25. PMID: 30804503.
 
-- #Yan, Y., #Yang, X., Li, T.T., Gu, K.L., Hao, J., Zhang, Q., *Wang, Y. (2017) Significant Differences of Function and Expression of microRNAs between Ground State and Serum-Cultured Pluripotent Stem Cells. **Journal of Genetics and Genomics** 44，179-189.
+- 31: Guo WT, **Wang Y**. Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. Cell Mol Life Sci. 2019 May;76(9):1697-1711. doi: 10.1007/s00018-019-03020-9. Epub 2019 Jan 29. Erratum in: Cell Mol Life Sci. 2019 Apr 29;: PMID: 30694346.
 
-- Guo, W.T., Wang, X.W., Yan, Y.L., Li, Y.P., Yin, X., Zhang, Q., Melton, C., Shenoy, A., Reyes, N.A., Oakes, S.A., *Blelloch, R. and *Wang Y. (2015) Suppression of Epithelial-Mesenchymal Transition and Apoptotic Pathways by miR-294/302 Synergistically Blocks let-7-induced Silencing of Self-renewal in Embryonic Stem Cells. **Cell Death and Differentiation** 22, 1158-1169.
+- 30: Chen X, Wang L, Huang R, Qiu H, Wang P, Wu D, Zhu Y, Ming J, **Wang Y**, Wang J, Na J. Dgcr8 deletion in the primitive heart uncovered novel microRNA regulating the balance of cardiac-vascular gene program. Protein Cell. 2019 May;10(5):327-346. doi: 10.1007/s13238-018-0572-1. Epub 2018 Aug 20. PMID: 30128894; PMCID: PMC6468043.
 
-- #Ma, Y., #Yao, N., #Liu, G., Dong, L., Wang, F., Wang, B., Dong, H., Wei, X., Zhang, M., Ji, S., Liu, Y., Zhang, J., Wang Y, *Huang Y. and *Yu J. (2015) Functional Screen Reveals Essential Roles of miR-27a/24 in Differentiation of Embryonic Stem Cells. **EMBO Journal** 34, 361-378.
+- 29: Wu DR, Gu KL, Yu JC, Fu X, Wang XW, Guo WT, Liao LQ, Zhu H, Zhang XS, Hui J, **Wang Y**. Opposing roles of miR-294 and MBNL1/2 in shaping the gene regulatory network of embryonic stem cells. EMBO Rep. 2018 Jun;19(6):e45657. doi: 10.15252/embr.201745657. Epub 2018 May 7. PMID: 29735517; PMCID: PMC5989781.
 
-- *#Wang, Y., #Melton, C., Li, Y.P., Shenoy, A., Zhang, X.X., Subramanyam, D. and *Blelloch, R. (2013) miR-294/miR-302 Promotes Proliferation, Suppresses G1-S Restriction Point, and Inhibits ESC Differentiation through Separable Mechanisms. **Cell Reports** 4, 99-109.
+- 28: Bao X, Guo X, Yin M, Tariq M, Lai Y, Kanwal S, Zhou J, Li N, Lv Y, Pulido-Quetglas C, Wang X, Ji L, Khan MJ, Zhu X, Luo Z, Shao C, Lim DH, Liu X, Li N, Wang W, He M, Liu YL, Ward C, Wang T, Zhang G, Wang D, Yang J, Chen Y, Zhang C, Jauch R, Yang YG, **Wang Y**, Qin B, Anko ML, Hutchins AP, Sun H, Wang H, Fu XD, Zhang B, Esteban MA. Capturing the interactome of newly transcribed RNA. Nat Methods. 2018 Mar;15(3):213-220. doi: 10.1038/nmeth.4595. Epub 2018 Feb 12. PMID: 29431736; PMCID: PMC5967874.
 
-- Wang, Y., Baskerville, S., Shenoy, A., Babiarz, J.E., Baehner, L. and *Blelloch, R. (2008) Embryonic Stem Cell Specific microRNAs Regulate the G1/S Transition and Promote Rapid Proliferation. **Nature Genetics** 40, 1478-1483. (Highlighted in **Nature Reports Stem Cells** ; in News and Views in Nature Genetics , 2008, 40, 1391-1392; and in **Cell Stem Cell** , 2009, 4, 9-10)
+- 27: Wang XW, Hao J, Guo WT, Liao LQ, Huang SY, Guo X, Bao X, Esteban MA, **Wang Y**. A DGCR8-Independent Stable MicroRNA Expression Strategy Reveals Important Functions of miR-290 and miR-183-182 Families in Mouse Embryonic Stem Cells. Stem Cell Reports. 2017 Nov 14;9(5):1618-1629. doi: 10.1016/j.stemcr.2017.08.027. Epub 2017 Oct 5. PMID: 28988987; PMCID: PMC5830984.
 
-- Babiarz, J.E., Ruby, J.G., Wang, Y., *Bartel, D.P. and *Blelloch, R. (2008) Endogenous shRNAs, siRNAs, and Other Microprocessor-independent, Dicer-dependent Small RNAs in Mouse ES cells. **Genes & Development** 22, 2773-2785.
+- 26: Jiang L, Shao C, Wu QJ, Chen G, Zhou J, Yang B, Li H, Gou LT, Zhang Y, **Wang Y**, Yeo GW, Zhou Y, Fu XD. NEAT1 scaffolds RNA-binding proteins and the Microprocessor to globally enhance pri-miRNA processing. Nat Struct Mol Biol. 2017 Oct;24(10):816-824. doi: 10.1038/nsmb.3455. Epub 2017 Aug 28. PMID: 28846091; PMCID: PMC5766049.
 
-- Wang, Y., Medvid, R., Melton, C., Jaenisch, R. and *Blelloch, R. (2007) DGCR8 is Essential for microRNA Biogenesis and Silencing of Embryonic Stem Cell Self-Renewal. **Nature Genetics** 39, 380-385.
+- 25: Hao J, Duan FF, **Wang Y**. MicroRNAs and RNA binding protein regulators of microRNAs in the control of pluripotency and reprogramming. Curr Opin Genet Dev. 2017 Oct;46:95-103. doi: 10.1016/j.gde.2017.07.001. Epub 2017 Jul 25. PMID: 28753462.
 
-- Wang, Y. and *Silverman, S.K. (2006) Experimental Tests of Two Proofreading Mechanisms for 5′-Splice Site Selection. **ACS Chemical Biology** 1, 316-324.
+- 24: Yan Y, Yang X, Li TT, Gu KL, Hao J, Zhang Q, **Wang Y**. Significant differences of function and expression of microRNAs between ground state and serum-cultured pluripotent stem cells. J Genet Genomics. 2017 Apr 20;44(4):179-189. doi: 10.1016/j.jgg.2017.01.005. Epub 2017 Feb 22. PMID: 28411033.
 
-- Wang, Y. and *Silverman, S.K. (2006) Efficient RNA 5'-Adenylation By T4 DNA Ligase to Facilitate Practical Applications. **RNA** 12, 1142-1146.
+- 23: Wei W, Liu Y, Zhang Q, **Wang Y**, Zhang X, Zhang H. Danshen-Enhanced Cardioprotective Effect of Cardioplegia on Ischemia Reperfusion Injury in a Human-Induced Pluripotent Stem Cell-Derived Cardiomyocytes Model. Artif Organs. 2017 May;41(5):452-460. doi: 10.1111/aor.12801. Epub 2016 Dec 7. PMID: 27925238.
 
-- Zelin, E., Wang, Y. and *Silverman, S.K. (2006) Adenosine is Inherently Favored as the Branch-Site RNA Nucleotide in a Structural Context that Resembles Natural RNA Splicing. **Biochemistry** 45, 2767-2771.
+- 22: Gu KL, Zhang Q, Yan Y, Li TT, Duan FF, Hao J, Wang XW, Shi M, Wu DR, Guo WT, **Wang Y**. Pluripotency-associated miR-290/302 family of microRNAs promote the dismantling of naive pluripotency. Cell Res. 2016 Mar;26(3):350-66. doi: 10.1038/cr.2016.2. Epub 2016 Jan 8. PMID: 26742694; PMCID: PMC4783473.
 
-- Wang, Y. and *Silverman, S.K. (2006) A General Two-Step Strategy To Synthesize Lariat RNAs. **RNA** 12, 313-321.
+- 21: Li YP, **Wang Y**. Large noncoding RNAs are promising regulators in embryonic stem cells. J Genet Genomics. 2015 Mar 20;42(3):99-105. doi: 10.1016/j.jgg.2015.02.002. Epub 2015 Feb 12. PMID: 25819086.
 
-- Wang, Y. and *Silverman, S.K. (2005) Efficient One-Step Synthesis of Biologically Related Lariat RNAs by a Deoxyribozyme. **Angewandte Chemie International Edition** 44, 5863-5866. (Highlighted in **Nature Chemical Biology**, 2005, 1, 195)
+- 20: Cao Y, Guo WT, Tian S, He X, Wang XW, Liu X, Gu KL, Ma X, Huang D, Hu L, Cai Y, Zhang H, **Wang Y**, Gao P. miR-290/371-Mbd2-Myc circuit regulates glycolytic metabolism to promote pluripotency. EMBO J. 2015 Mar 4;34(5):609-23. doi: 10.15252/embj.201490441. Epub 2015 Jan 20. PMID: 25603933; PMCID: PMC4365031.
 
-- Pratico, E.D., Wang, Y. and *Silverman, S.K. (2005) A Deoxyribozyme That Synthesizes 2’,5’-Branched RNA With Any Branch-Site Nucleotide. **Nucleic Acids Research** 33, 3503-3512.
+- 19: Ma Y, Yao N, Liu G, Dong L, Liu Y, Zhang M, Wang F, Wang B, Wei X, Dong H, Wang L, Ji S, Zhang J, **Wang Y**, Huang Y, Yu J. Functional screen reveals essential roles of miR-27a/24 in differentiation of embryonic stem cells. EMBO J. 2015 Feb 3;34(3):361-78. doi: 10.15252/embj.201489957. Epub 2014 Dec 17. PMID: 25519956; PMCID: PMC4339122.
 
-- Wang, Y. and *Silverman, S.K. (2005) Directing the Outcome of Deoxyribozyme Selections to Favor Native 3'-5' RNA Ligation. **Biochemistry** 44, 3017-3023.
+- 18: Guo WT, Wang XW, **Wang Y**. Micro-management of pluripotent stem cells. Protein Cell. 2014 Jan;5(1):36-47. doi: 10.1007/s13238-013-0014-z. Epub 2014 Jan 28. PMID: 24470117; PMCID: PMC3938853.
 
-- Wang, Y. and *Silverman, S.K. (2003) Characterization of Deoxyribozymes that Synthesize Branched RNA. **Biochemistry** 42, 15252-15263.
+- 17: **Wang Y**, Melton C, Li YP, Shenoy A, Zhang XX, Subramanyam D, Blelloch R. miR-294/miR-302 promotes proliferation, suppresses G1-S restriction point, and inhibits ESC differentiation through separable mechanisms. Cell Rep. 2013 Jul 11;4(1):99-109. doi: 10.1016/j.celrep.2013.05.027. Epub 2013 Jul 3. PMID: 23831024; PMCID: PMC3740202.
 
-- Wang, Y. and *Silverman, S.K. (2003) Deoxyribozymes that Synthesize Branched and Lariat RNA. **Journal of the American Chemical Society** 125, 6880-6881.
+- 16: **Wang Y**, Blelloch R. Cell cycle regulation by microRNAs in stem cells. Results Probl Cell Differ. 2011;53:459-72. doi: 10.1007/978-3-642-19065-0_19. PMID: 21630156.
 
-- Flynn-Charlebois, A., Wang, Y., Prior, T.K., Rashid, I., Hoadley, K.A., Coppins, R.L., Wolf, A.C. and *Silverman, S.K. (2003) Deoxyribozymes with 2'-5' RNA Ligase Activity. **Journal of the American Chemical Society** 125, 2444-2454.
+- 15: **Wang Y**, Blelloch R. Cell cycle regulation by MicroRNAs in embryonic stem cells. Cancer Res. 2009 May 15;69(10):4093-6. doi: 10.1158/0008-5472.CAN-09-0309. Epub 2009 May 12. PMID: 19435891; PMCID: PMC2894693.
 
-- Zhen, W., Wang, Y., Ding, W., Chen, X., Hu, Y. and *Lin, Z. (2001) Cre/loxP-mediated Deletion of Transgene in Transgenic Tobacco. Journal (natural sciences) of Peking University 37, 477-482.
+- 14: **Wang Y**, Baskerville S, Shenoy A, Babiarz JE, Baehner L, Blelloch R. Embryonic stem cell-specific microRNAs regulate the G1-S transition and promote rapid proliferation. Nat Genet. 2008 Dec;40(12):1478-83. doi: 10.1038/ng.250. Epub 2008 Nov 2. PMID: 18978791; PMCID: PMC2630798.
 
-## INVITED REVIEWS
+- 13: Babiarz JE, Ruby JG, **Wang Y**, Bartel DP, Blelloch R. Mouse ES cells express endogenous shRNAs, siRNAs, and other Microprocessor-independent, Dicer-dependent small RNAs. Genes Dev. 2008 Oct 15;22(20):2773-85. doi: 10.1101/gad.1705308. PMID: 18923076; PMCID: PMC2569885.
 
-- Hao, J., Duan, F.F. and *Wang, Y. (2017) MicroRNAs and RNA binding protein regulators of microRNAs in the control of pluripotency and reprogramming. **Current Opinion in Genetics & Development** 46, 95-103.
+- 12: **Wang Y**, Medvid R, Melton C, Jaenisch R, Blelloch R. DGCR8 is essential for microRNA biogenesis and silencing of embryonic stem cell self-renewal. Nat Genet. 2007 Mar;39(3):380-5. doi: 10.1038/ng1969. Epub 2007 Jan 28. PMID: 17259983; PMCID: PMC3008549.
 
-- Li, Y.P. and *Wang, Y. (2015) Large Noncoding RNAs are Promising Regulators in Embryonic Stem Cells. **Journal of Genetics and Genomics** 42, 99-105.
+- 11: **Wang Y**, Silverman SK. Experimental tests of two proofreading mechanisms for 5'-splice site selection. ACS Chem Biol. 2006 Jun 20;1(5):316-24. doi: 10.1021/cb6001569. PMID: 17163761.
 
-- Guo, W.T., Wang, X.W. and *Wang, Y. (2014) Micro-management of Pluripotent Stem Cells. **Protein & Cell** 5, 36-47.
+- 10: **Wang Y**, Silverman SK. Efficient RNA 5'-adenylation by T4 DNA ligase to facilitate practical applications. RNA. 2006 Jun;12(6):1142-6. doi: 10.1261/rna.33106. Epub 2006 Apr 17. PMID: 16618967; PMCID: PMC1464850.
 
-- Wang, Y. and *Blelloch, R. (2011) Cell Cycle Regulation by microRNAs in Stem Cells. **Results and Problems in Cell Differentiation** 53, 459-472.
+- 9: Zelin E, **Wang Y**, Silverman SK. Adenosine is inherently favored as the branch-site RNA nucleotide in a structural context that resembles natural RNA splicing. Biochemistry. 2006 Mar 7;45(9):2767-71. doi: 10.1021/bi052499l. PMID: 16503631; PMCID: PMC2515823.
 
-- Wang, Y. and *Blelloch, R. (2009) Cell Cycle Regulation by microRNAs in Embryonic Stem Cells. **Cancer Research** 69, 4093-4096.
-	
+- 8: **Wang Y**, Silverman SK. A general two-step strategy to synthesize lariat RNAs. RNA. 2006 Feb;12(2):313-21. doi: 10.1261/rna.2259406. Epub 2005 Dec 22. PMID: 16373486; PMCID: PMC1370911.
+
+- 7: **Wang Y**, Silverman SK. Efficient one-step synthesis of biologically related lariat RNAs by a deoxyribozyme. Angew Chem Int Ed Engl. 2005 Sep 12;44(36):5863-6. doi: 10.1002/anie.200501643. PMID: 16086354; PMCID: PMC1513635.
+
+- 6: Pratico ED, **Wang Y**, Silverman SK. A deoxyribozyme that synthesizes 2',5'-branched RNA with any branch-site nucleotide. Nucleic Acids Res. 2005 Jun 20;33(11):3503-12. doi: 10.1093/nar/gki656. PMID: 15967808; PMCID: PMC1153712.
+
+- 5: **Wang Y**, Silverman SK. Directing the outcome of deoxyribozyme selections to favor native 3'-5' RNA ligation. Biochemistry. 2005 Mar 1;44(8):3017-23. doi: 10.1021/bi0478291. PMID: 15723545.
+
+- 4: **Wang Y**, Silverman SK. Characterization of deoxyribozymes that synthesize branched RNA. Biochemistry. 2003 Dec 30;42(51):15252-63. doi: 10.1021/bi0355847. PMID: 14690435.
+
+- 3: **Wang Y**, Silverman SK. Deoxyribozymes that synthesize branched and lariat RNA. J Am Chem Soc. 2003 Jun 11;125(23):6880-1. doi: 10.1021/ja035150z. PMID: 12783536.
+
+- 2: Flynn-Charlebois A, **Wang Y**, Prior TK, Rashid I, Hoadley KA, Coppins RL, Wolf AC, Silverman SK. Deoxyribozymes with 2'-5' RNA ligase activity. J Am Chem Soc. 2003 Mar 5;125(9):2444-54. doi: 10.1021/ja028774y. PMID: 12603132.
+
+- 1: Zhen W, **Wang Y**, Ding W, Chen X, Hu Y, Lin Z. Cre/loxP-mediated Deletion of Transgene in Transgenic Tobacco. Acta Scientiarum Naturalium Universitatis Pekinensis, 2001;37(4):477-482.
