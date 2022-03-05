@@ -8,7 +8,7 @@ header-img: "img/molecule.png"
 
 - 43: Wang SH, Zhang C, ***Wang Y**. microRNA regulation of pluripotent state transition. **Essays Biochem**. 2020 Dec 7;64(6):947-954. [Link](https://doi.org/10.1042/EBC20200028). [PubMed](https://pubmed.ncbi.nlm.nih.gov/33034348).
 
-- 42: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, Cao H, ***Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. **Cell Prolif**. 2020 Nov;53(11):e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
+- 42: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, **Cao H**, ***Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. **Cell Prolif**. 2020 Nov;53(11):e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
 
 - 41: #Guo CJ, #Ma XK, Xing YH, Zheng CC, Xu YF, Shan L, Zhang J, Wang S, **Wang Y**, Carmichael GG, Yang L, Chen LL. Distinct Processing of lncRNAs Contributes to Non-conserved Functions in Stem Cells. **Cell**. 2020 Apr 30;181(3):621-636.e22. [Link](https://doi.org/10.1016/j.cell.2020.03.006). Epub 2020 Apr 6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32259487).
 
@@ -18,7 +18,7 @@ header-img: "img/molecule.png"
 
 - 38: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, ***Wang Y**, Wang S, Li C. Corrigendum to "Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model" [Stem Cell Research 38 (2019) 101483 Page 1-8]. **Stem Cell Res**. 2019 Dec;41:101526. [Link](https://doi.org/10.1016/j.scr.2019.101483). Epub 2019 Sep 25. 2019 Jul;38:101483. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226583).
 
-- 37: Shi M, Hao J, Wang XW, Liao LQ, ***Cao H**, ***Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. **Int J Mol Sci**. 2019 Sep 5;20(18):4345. [Link](https://doi.org/10.3390/ijms20184345). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31491855). 
+- 37: Shi M, Hao J, Wang XW, Liao LQ, **\*Cao H**, **\*Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. **Int J Mol Sci**. 2019 Sep 5;20(18):4345. [Link](https://doi.org/10.3390/ijms20184345). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31491855). 
 
 - 36: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, ***Wang Y**, Wang S, Li C. Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model. **Stem Cell Res**. 2019 Jul;38:101483. [Link](https://doi.org/10.1016/j.scr.2019.101483). Epub 2019 Jun 11. 2019 Sep 25;:101526. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226583).
 
