@@ -4,31 +4,29 @@ title: "Publications"
 description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >3000)"
 header-img: "img/molecule.png"
 ---
-- 43: Zhao YT, **\*Wang Y**. Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. **Cell Discov**. 2021 Jun 15;7(1):45. [Link](https://doi.org/10.1038/s41421-021-00272-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/34127653). 
+- 42: Zhao YT, **\*Wang Y**. Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. **Cell Discov**. 2021 Jun 15;7(1):45. [Link](https://doi.org/10.1038/s41421-021-00272-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/34127653). 
 
-- 42: Wang SH, Zhang C, **\*Wang Y**. microRNA regulation of pluripotent state transition. **Essays Biochem**. 2020 Dec 7;64(6):947-954. [Link](https://doi.org/10.1042/EBC20200028). [PubMed](https://pubmed.ncbi.nlm.nih.gov/33034348).
+- 41: Wang SH, Zhang C, **\*Wang Y**. microRNA regulation of pluripotent state transition. **Essays Biochem**. 2020 Dec 7;64(6):947-954. [Link](https://doi.org/10.1042/EBC20200028). [PubMed](https://pubmed.ncbi.nlm.nih.gov/33034348).
 
-- 41: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, **Cao H**, **\*Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. **Cell Prolif**. 2020 Nov;53(11):e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
+- 40: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, **Cao H**, **\*Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. **Cell Prolif**. 2020 Nov;53(11):e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
 
-- 40: #Guo CJ, #Ma XK, Xing YH, Zheng CC, Xu YF, Shan L, Zhang J, Wang S, **Wang Y**, Carmichael GG, Yang L, \*Chen LL. Distinct Processing of lncRNAs Contributes to Non-conserved Functions in Stem Cells. **Cell**. 2020 Apr 30;181(3):621-636.e22. [Link](https://doi.org/10.1016/j.cell.2020.03.006). Epub 2020 Apr 6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32259487).
+- 39: #Guo CJ, #Ma XK, Xing YH, Zheng CC, Xu YF, Shan L, Zhang J, Wang S, **Wang Y**, Carmichael GG, Yang L, \*Chen LL. Distinct Processing of lncRNAs Contributes to Non-conserved Functions in Stem Cells. **Cell**. 2020 Apr 30;181(3):621-636.e22. [Link](https://doi.org/10.1016/j.cell.2020.03.006). Epub 2020 Apr 6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32259487).
 
-- 39: #Wu K, #Liu H, Wang Y, He J, Xu S, Chen Y, Kuang J, Liu J, Guo L, Li D, Shi R, Shen L, **Wang Y**, Zhang X, Wang J, Pei D, \*Chen J. SETDB1-Mediated Cell Fate Transition between 2C-Like and Pluripotent States. **Cell Rep**. 2020 Jan 7;30(1):25-36.e6. [Link](https://doi.org/10.1016/j.celrep.2019.12.010). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31914391).
+- 38: #Wu K, #Liu H, Wang Y, He J, Xu S, Chen Y, Kuang J, Liu J, Guo L, Li D, Shi R, Shen L, **Wang Y**, Zhang X, Wang J, Pei D, \*Chen J. SETDB1-Mediated Cell Fate Transition between 2C-Like and Pluripotent States. **Cell Rep**. 2020 Jan 7;30(1):25-36.e6. [Link](https://doi.org/10.1016/j.celrep.2019.12.010). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31914391).
 
-- 38: #Zhang C, #Yan YL, #Hao J, **\*Wang Y**. Cellular redox state as a critical factor in initiating early embryonic-like program in embryonic stem cells. **Cell Discov**. 2019 Dec 10;5:59. [Link](https://doi.org/10.1038/s41421-019-0127-5). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31839984). 
+- 37: #Zhang C, #Yan YL, #Hao J, **\*Wang Y**. Cellular redox state as a critical factor in initiating early embryonic-like program in embryonic stem cells. **Cell Discov**. 2019 Dec 10;5:59. [Link](https://doi.org/10.1038/s41421-019-0127-5). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31839984). 
 
-- 37: Shi M, Hao J, Wang XW, Liao LQ, **\*Cao H**, **\*Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. **Int J Mol Sci**. 2019 Sep 5;20(18):4345. [Link](https://doi.org/10.3390/ijms20184345). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31491855). 
+- 36: Shi M, Hao J, Wang XW, Liao LQ, **\*Cao H**, **\*Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. **Int J Mol Sci**. 2019 Sep 5;20(18):4345. [Link](https://doi.org/10.3390/ijms20184345). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31491855). 
 
-- 36: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, **\*Wang Y**, \*Wang S, \*Li C. Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model. **Stem Cell Res**. 2019 Jul;38:101483. [Link](https://doi.org/10.1016/j.scr.2019.101483). Epub 2019 Jun 11. 2019 Sep 25;:101526. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226583).
+- 35: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, **\*Wang Y**, \*Wang S, \*Li C. Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model. **Stem Cell Res**. 2019 Jul;38:101483. [Link](https://doi.org/10.1016/j.scr.2019.101483). Epub 2019 Jun 11. 2019 Sep 25;:101526. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226583).
 
-- 35: #Yan YL, #Zhang C, Hao J, Wang XL, Ming J, Mi L, Na J, Hu X, **\*Wang Y**. DPPA2/4 and SUMO E3 ligase PIAS4 opposingly regulate zygotic transcriptional program. **PLoS Biol**. 2019 Jun 21;17(6):e3000324. [Link](https://doi.org/10.1371/journal.pbio.3000324). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226106). 
-
-- 34: Guo WT, **\*Wang Y**. Correction to: Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. **Cell Mol Life Sci**. 2019 Jun;76(11):2245. [Link](https://doi.org/10.1007/s00018-019-03087-4). Erratum for: Cell Mol Life Sci. 2019 May;76(9):1697-1711. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31037335).
+- 34: #Yan YL, #Zhang C, Hao J, Wang XL, Ming J, Mi L, Na J, Hu X, **\*Wang Y**. DPPA2/4 and SUMO E3 ligase PIAS4 opposingly regulate zygotic transcriptional program. **PLoS Biol**. 2019 Jun 21;17(6):e3000324. [Link](https://doi.org/10.1371/journal.pbio.3000324). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226106). 
 
 - 33: #Li YP, #Duan FF, Zhao YT, Gu KL, Liao LQ, Su HB, Hao J, Zhang K, Yang N, **\*Wang Y**. A TRIM71 binding long noncoding RNA Trincr1 represses FGF/ERK signaling in embryonic stem cells. **Nat Commun**. 2019 Mar 25;10(1):1368. [Link](https://doi.org/10.1038/s41467-019-08911-w). [PubMed](https://pubmed.ncbi.nlm.nih.gov/30911006). 
 
 - 32: #Wang XW, #Hu LF, Hao J, Liao LQ, Chiu YT, Shi M, **\*Wang Y**. A microRNA-inducible CRISPR-Cas9 platform serves as a microRNA sensor and cell-type-specific genome regulation tool. **Nat Cell Biol**. 2019 Apr;21(4):522-530. [Link](https://doi.org/10.1038/s41556-019-0292-7). Epub 2019 Feb 25. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30804503).
 
-- 31: Guo WT, **\*Wang Y**. Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. **Cell Mol Life Sci**. 2019 May;76(9):1697-1711. [Link](https://doi.org/10.1007/s00018-019-03020-9). Epub 2019 Jan 29. Erratum in: Cell Mol Life Sci. 2019 Apr 29;: [PubMed](https://pubmed.ncbi.nlm.nih.gov/30694346).
+- 31: Guo WT, **\*Wang Y**. Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. **Cell Mol Life Sci**. 2019 May;76(9):1697-1711. [Link](https://doi.org/10.1007/s00018-019-03020-9). Epub 2019 Jan 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30694346).
 
 - 30: Chen X, Wang L, Huang R, Qiu H, Wang P, Wu D, Zhu Y, Ming J, **Wang Y**, Wang J, \*Na J. Dgcr8 deletion in the primitive heart uncovered novel microRNA regulating the balance of cardiac-vascular gene program. **Protein Cell**. 2019 May;10(5):327-346. [Link](https://doi.org/10.1007/s13238-018-0572-1). Epub 2018 Aug 20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30128894). 
 
