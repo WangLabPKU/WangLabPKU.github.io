@@ -22,7 +22,7 @@ layout: home
 ---------------
 
 
-[![pku](img/logos/pku.png)](www.pku.edu.cn) [![future](img/logos/future.png)](future.pku.edu.cn) [![](img/logos/imm.jpg)](imm.pku.edu.cn)
+[![pku](img/logos/pku.png)](www.pku.edu.cn) [![future](img/logos/future.jpg)](future.pku.edu.cn) [![](img/logos/imm.jpg)](imm.pku.edu.cn)
 
 <style>
 img[alt="pku"]{
