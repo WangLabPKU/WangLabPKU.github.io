@@ -41,12 +41,12 @@ header-img: "img/newyear.png"
 	{% endif %}
 {% endif %}{% endif %}{% endfor %}
 <br>
-<div style="clear:both; margin-top: 36px;">
+<div style="clear:both; margin-top: 5px;">
 <h1>Lab Manager</h1>
 <hr>
 {% for member in site.data.members %} {% if member.role == 'Lab Manager' %} {% if member.visible == true %}
 <div class="cardBox">
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:108px !important">
+	<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; width:120px !important">
 	<h3>{{ member.name }}</h3>
 	{% if member.research %}
 	<b>{{ member.research }}</b>
@@ -65,12 +65,13 @@ header-img: "img/newyear.png"
 {% endif %}{% endif %}{% endfor %}
 </div>
 <br style="clear:both;">
-<div style="clear:both; margin-top: 36px;">
+<br style="clear:both;">
+<div style="clear:both; margin-top: 5px;">
 <h1>Postdoc</h1>
 <hr>
 {% for member in site.data.members %} {% if member.role == 'Postdoc' %} {% if member.visible == true %}
 <div class="cardBox">
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:108px !important">
+	<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; width:120px !important">
 	<h3>{{ member.name }}</h3>
 	{% if member.research %}
 	<b>{{ member.research }}</b>
@@ -88,13 +89,14 @@ header-img: "img/newyear.png"
 </div>
 {% endif %}{% endif %}{% endfor %}
 </div>
+<br style="clear:both;">
 <br style="clear:both;">
 <h1>PhD Student</h1>
 <hr>
-<div style="clear:both; margin-top: 36px;">
+<div style="clear:both; margin-top: 5px;">
 {% for member in site.data.members %} {% if member.role == 'PhD Student' %} {% if member.visible == true %}
 <div class="cardBox">
-<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:108px !important">
+<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; width:120px !important">
 	<h3>{{ member.name }}</h3>
 	{% if member.research %}
 	<b>{{ member.research }}</b>
@@ -114,12 +116,12 @@ header-img: "img/newyear.png"
 </div>
 <br style="clear:both;">
 <br style="clear:both;">
-<div style="clear:both; margin-top: 36px;">
+<div style="clear:both; margin-top: 5px;">
 <h1>Technician</h1>
 <hr>
 {% for member in site.data.members %} {% if member.role == 'Technician' %} {% if member.visible == true %}
 <div class="cardBox">
-<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:108px !important">
+<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; width:120px !important">
 	<h3>{{ member.name }}</h3>
 	{% if member.research %}
 	<b>{{ member.research }}</b>
@@ -138,12 +140,13 @@ header-img: "img/newyear.png"
 {% endif %}{% endif %}{% endfor %}
 </div>
 <br style="clear:both;">
-<div style="clear:both; margin-top: 36px;">
+<br style="clear:both;">
+<div style="clear:both; margin-top: 5px;">
 <h1>Undergraduate</h1>
 <hr>
 {% for member in site.data.members %} {% if member.role == 'Undergraduate' %} {% if member.visible == true %}
 <div class="cardBox">
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:108px !important">
+	<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; width:120px !important">
 	<h3>{{ member.name }}</h3>
 	{% if member.research %}
 	<b>{{ member.research }}</b>
@@ -162,7 +165,8 @@ header-img: "img/newyear.png"
 {% endif %}{% endif %}{% endfor %}
 </div>
 <br style="clear:both;">
-<div style="clear:both; margin-top: 36px;">
+<br style="clear:both;">
+<div style="clear:both; margin-top: 5px;">
 <h1>Alumni</h1>
 <hr>
 </div>
