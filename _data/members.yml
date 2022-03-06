@@ -28,7 +28,7 @@
   role: Postdoc
   img: /img/male.jpg
   bio: <br> <br> <br>
-  research:
+  research: 
   url: 
   visible: True
 
@@ -44,7 +44,7 @@
   role: PhD Student
   img: /img/female.png
   bio: <br> <br> <br>
-  research:
+  research: lncRNA
   url: 
   visible: True
 
@@ -52,7 +52,7 @@
   role: PhD Student
   img: /img/female.png
   bio: <br> <br> <br>
-  research:
+  research: Organoid
   url: 
   visible: True
 
@@ -106,7 +106,7 @@
 
 - name: Gang Xie
   role: PhD Student
-  img: /img/male.jpg
+  img: /img/members/xg.jpg
   github: JeremyTse
   bio: 2021, Huazhong University of Science and Technology, Bachelor <br>
   research: RNA Bioinformatics
