@@ -9,7 +9,7 @@ header-img: "img/newyear.png"
 <hr>
 {% for member in site.data.members %} {% if member.role == 'PI' %} {% if member.visible == true %}
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:148px !important">
+	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:152px !important">
 	<h2>{{ member.name }}</h2>
 	{% if member.email %}
 	<span class="social-share-googleplus"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px"> {{member.email}}</span>
@@ -27,7 +27,7 @@ header-img: "img/newyear.png"
 <h1>Co-PI</h1>
 <hr>
 {% for member in site.data.members %} {% if member.role == 'Co-PI' %} {% if member.visible == true %}
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:148px !important">
+	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:152px !important">
 	<h2>{{ member.name }}</h2>
 	{% if member.email %}
 	<span class="social-share-googleplus"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px"> {{member.email}}</span>
