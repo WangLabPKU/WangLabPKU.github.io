@@ -5,18 +5,17 @@
 layout: home
 ---
 
-> 干细胞是指能够分化成为其它功能执行细胞的细胞。 它们的存在为人类治愈各种疾病（像癌症、神经退化性疾病和糖尿病等等）带来了希望。为了实现干细胞治愈疾病的潜能，我们必须了解调控干细胞的增殖/自我更新与定向分化的分子机理。 
+> Stem cell, an undifferentiated cell that can divide to produce some offspring cells that continue as stem cells and some cells that are destined to differentiate (become specialized). They are expected to be used to cure various diseases, such as cancer, neurodegenerative diseases, diabetes, etc. In order to realize the potential of stem cells to cure diseases, we must understand the molecular mechanisms that regulate the proliferation (or self-renewal) and directed differentiation of stem cells. 
 
 ## About us
 
-本实验室主要研究非编码核酸这一细胞中的暗物质在干细胞的增殖/自我更新与定向分化过程中的作用。目前我们的研究集中于胚胎干细胞和诱导多能干细胞。 通过这些研究，我们希望能够找到控制干细胞增殖/自我更新与定向分化的新的靶标和技术。
-
-研究领域主要为干细胞和RNA生物学。利用细胞生物学、分子生物学、遗传学、生物化学和生物信息学等手段，结合二代测序、高通量筛选、基因编辑等新技术进行研究，研究内容涵盖干细胞相关生物学过程机制研究，疾病模型和药物靶标研究，以及与基础或应用研究相关的共性新技术开发。
+Our lab mainly studies the role of non-coding RNA, the dark matter in cells, during the process of proliferation (or self-renewal) and directed differentiation of stem cells. 
+Our current research focuses on embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), using cell biology, molecular biology, genetics, biochemistry and bioinformatics, combined with new technologies, such as next-generation sequencing (NGS), high-throughput screening, and gene editing. The research content covers stem cell related biological process mechanism, disease model and drug target, as well as the development of generic new technologies related to basic or applied research. We hope to find new targets and techniques to control stem cell proliferation (or self-renewal) and directed differentiation by these researches.
 
 ## Major Achievements
 
-- 建立了miRNA 全敲除小鼠胚胎干细胞系，率先揭示了miRNA 通路对于胚胎干细胞增殖与分化的重要作用
-- 发现了调控胚胎干细胞增殖、细胞周期、糖酵解代谢和自我更新等功能的miR-290和miR-302家族并解析了其分子机制
-- 发明了miRNA激活CRISPR-Cas9基因编辑体系开启的技术平台，以及新型非编码RNA启动子活性报告基因技术
-- 鉴定了调控FGF/ERK通路活性的长非编码RNA，解析了其促进胚胎干细胞自我更新的功能和分子机制
-- 发现了调控早期胚胎发育合子基因组激活 （ZGA） 和体外全能干细胞转化的新分子通路PIAS4-SUMO2-DPPA2/4
+- Established a miRNA full knockout mESC, and the first to reveal the important role of the miRNA pathway in the proliferation and differentiation of ESCs
+- Discovered the miR-290/302 family that regulate the functions of embryonic stem cell proliferation, cell cycle, glycolytic metabolism and self-renewal, and revealed the molecular mechanism
+- Invented the technology platform that miRNA activates the CRISPR-Cas9 gene editing system, and the novel non-coding RNA promoter activity reporter gene technology
+- Elucidated important function of a lncRNA in regulating FGF/ERK signaling and self-renewal of ESCs
+- Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells in vitro
