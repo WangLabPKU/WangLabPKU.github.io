@@ -74,8 +74,8 @@
 
 - name: Jing Wang
   role: PhD Student
-  img: /img/female.png
-  bio: <br> <br> <br>
+  img: /img/members/wjing.jpg
+  bio: <br> <br>
   research: lncRNA
   url: 
   visible: True
@@ -156,7 +156,7 @@
 - name: Xiangyu Zhang
   role: Undergraduate
   img: /img/members/zxy.jpg
-  bio: Peking University<br> <br> <br>
+  bio: Peking University <br> <br>
   research: microRNA
   url: 
   visible: True
