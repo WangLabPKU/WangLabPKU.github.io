@@ -18,6 +18,8 @@ We are looking forward to highly motivated PhD students to join us and push forw
 - [Graduate Program in Institute Molecular Medicine, College of Future Technology](https://www.imm.pku.edu.cn/xwgg/tzgg/128308.htm)
 - [Peking-Tsinghua-NIBS Joint PhD Graduate Program](http://www.nibs.ac.cn/newsshow.php?cid=4&sid=14&id=2406)
 
+The rotation for PTN Program students are welcome to our lab!
+
 ## Undergraduate
 
 We are also looking forward to excellent undergraduate students to join us.
