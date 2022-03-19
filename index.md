@@ -18,4 +18,4 @@ Our current research focuses on embryonic stem cells (ESCs) and induced pluripot
 - Discovered the miR-290/302 family that regulate the functions of embryonic stem cell proliferation, cell cycle, glycolytic metabolism and self-renewal, and revealed the molecular mechanism
 - Invented the technology platform that miRNA activates the CRISPR-Cas9 gene editing system, and the novel non-coding RNA promoter activity reporter gene technology
 - Elucidated important function of a lncRNA in regulating FGF/ERK signaling and self-renewal of ESCs
-- Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells in vitro
+- Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells _in vitro_
