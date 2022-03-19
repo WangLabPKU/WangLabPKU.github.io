@@ -149,7 +149,7 @@
   role: Undergraduate
   img: /img/members/wjz.jpg
   bio: Peking University<br> <br> <br>
-  research:
+  research: Gene editing
   url: 
   visible: True
 
@@ -181,7 +181,7 @@
   role: PhD
   img: 
   bio: Peking University
-  research: RNA research at <a>ZhangLab<\a href="https://zhanglab.net">, Tsinghua University.
+  research: RNA research at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University.
   url: 
   visible: False
 
