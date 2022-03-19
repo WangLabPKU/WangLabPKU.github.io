@@ -27,7 +27,7 @@
 - name: Lufeng Hu, PhD
   role: Postdoc
   img: /img/members/hlf.jpg
-  bio: <br> <br> <br>
+  bio: Peking University, PhD <br> <br>
   research: 
   url: 
   visible: True
@@ -35,23 +35,23 @@
 - name: Wang Yao, PhD
   role: Postdoc
   img: /img/male.jpg
-  bio: <br> <br> <br>
+  bio: <br> <br>
   research:
   url: 
   visible: True
 
 - name: Yuting Zhao 
   role: PhD Student
-  img: /img/female.png
-  bio: <br> <br> <br>
+  img: /img/members/zyt.jpg
+  bio: Sichuan University, Bachelor <br> <br>
   research: lncRNA
   url: 
   visible: True
 
 - name: Xiaoshan Zhang
   role: PhD Student
-  img: /img/female.png
-  bio: <br> <br> <br>
+  img: /img/members/zxs.jpg
+  bio: China Agricutural University, Bachelor <br> <br>
   research: Organoid
   url: 
   visible: True
@@ -59,7 +59,7 @@
 - name: Zhen Li
   role: PhD Student
   img: /img/male.jpg
-  bio: <br> <br> <br>
+  bio: Hubei University, Bachelor <br> <br>
   research:
   url: 
   visible: True
@@ -67,8 +67,8 @@
 - name: Li Mi
   role: PhD Student
   img: /img/female.png
-  bio: <br> <br> <br>
-  research:
+  bio: Huazhong Agricutural University, Bachelor <br> <br>
+  research: Gene editing
   url: 
   visible: True
 
@@ -76,7 +76,7 @@
   role: PhD Student
   img: /img/female.png
   bio: <br> <br> <br>
-  research:
+  research: lncRNA
   url: 
   visible: True
 
@@ -84,7 +84,7 @@
   role: PhD Student
   img: /img/male.jpg
   bio: <br> <br> <br>
-  research:
+  research: 
   url: 
   visible: True
 
@@ -99,7 +99,7 @@
 - name: Qixuan Cheng
   role: PhD Student
   img: /img/female.png
-  bio: <br> <br> <br>
+  bio: China Agricutural University, Bachelor <br> <br>
   research:
   url: 
   visible: True
@@ -108,7 +108,7 @@
   role: PhD Student
   img: /img/members/xg.jpg
   github: JeremyTse
-  bio: 2021, Huazhong University of Science and Technology, Bachelor <br>
+  bio: Huazhong University of Science and Technology, Bachelor <br>
   research: RNA Bioinformatics
   url: 
   visible: True
@@ -116,16 +116,16 @@
 - name: Shuangjin Ding
   role: Technician
   img: /img/male.jpg
-  bio: <br> <br> <br>
-  research:
+  bio: Nanchang University, Master <br> <br>
+  research: Organoid
   url: 
   visible: True
 
 - name: Yang Liu
   role: Technician
   img: /img/female.png
-  bio: <br> <br> <br>
-  research:
+  bio: Guangxi University, Master <br> <br>
+  research: Bioinformatics
   url: 
   visible: True
 
@@ -133,7 +133,7 @@
   role: Undergraduate
   img: /img/female.png
   bio: Peking University<br> <br> <br>
-  research:
+  research: Gene editing
   url: 
   visible: True
 
@@ -141,7 +141,7 @@
   role: Undergraduate
   img: /img/male.jpg
   bio: Lanzhou University<br> <br> <br>
-  research:
+  research: RNA binding protein
   url: 
   visible: True
 
@@ -155,7 +155,7 @@
 
 - name: Xiangyu Zhang
   role: Undergraduate
-  img: /img/male.jpg
+  img: /img/members/zxy.jpg
   bio: Peking University<br> <br> <br>
   research:
   url: 
