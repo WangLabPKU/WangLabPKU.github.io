@@ -44,7 +44,7 @@
   role: PhD Student
   img: /img/members/zyt.jpg
   bio: Sichuan University, Bachelor <br> <br>
-  research: lncRNA
+  research: lncRNA and CRISPR-Cas9
   url: 
   visible: True
 
@@ -58,9 +58,9 @@
 
 - name: Zhen Li
   role: PhD Student
-  img: /img/male.jpg
+  img: /img/members/lz.jpg
   bio: Hubei University, Bachelor <br> <br>
-  research:
+  research: lncRNA and RNA-protein interactions
   url: 
   visible: True
 
@@ -76,7 +76,7 @@
   role: PhD Student
   img: /img/members/wjing.jpg
   bio: Chinese Academy of Agricultural Sciences, Master<br> <br>
-  research: lncRNA
+  research: lncRNA and gene editing
   url: 
   visible: True
 
@@ -90,7 +90,7 @@
 
 - name: Ming Shi
   role: PhD Student
-  img: /img/female.png
+  img: /img/members/sming.jpg
   bio: <br> <br> <br>
   research: Embryonic development
   url: 
