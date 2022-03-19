@@ -35,8 +35,8 @@
 - name: Wang Yao, PhD
   role: Postdoc
   img: /img/male.jpg
-  bio: <br> <br>
-  research:
+  bio: Nanjing Agricultural University, PhD <br> <br>
+  research: Embryonic development
   url: 
   visible: True
 
@@ -92,7 +92,7 @@
   role: PhD Student
   img: /img/female.png
   bio: <br> <br> <br>
-  research:
+  research: Embryonic development
   url: 
   visible: True
 
@@ -147,7 +147,7 @@
 
 - name: Jiazhen Wang
   role: Undergraduate
-  img: /img/male.jpg
+  img: /img/members/wjz.jpg
   bio: Peking University<br> <br> <br>
   research:
   url: 
@@ -168,3 +168,51 @@
   research:
   url: 
   visible: True
+
+- name: Chao Zhang
+  role: PhD
+  img: 
+  bio: Peking University
+  research: organoid research at Nanyang Technological University, Singapore.
+  url: 
+  visible: False
+
+- name: Xiwen Wang
+  role: PhD
+  img: 
+  bio: Peking University
+  research: RNA research at <a>ZhangLab<\a href="https://zhanglab.net">, Tsinghua University.
+  url: 
+  visible: False
+
+- name: Jing Hao
+  role: PhD
+  img: 
+  bio: Peking University
+  research: 
+  url: 
+  visible: False
+
+- name: Feifei Duan
+  role: PhD
+  img: 
+  bio: Peking University
+  research: 
+  url: 
+  visible: False
+
+- name: Shaohua Wang
+  role: PhD
+  img: 
+  bio: Peking University
+  research: 
+  url: 
+  visible: False
+
+- name: Yiwen Zhang
+  role: Technician
+  img: 
+  bio: Peking University
+  research: 
+  url: 
+  visible: False
