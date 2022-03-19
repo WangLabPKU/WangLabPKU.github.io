@@ -12,7 +12,7 @@
   role: Co-PI
   img: https://www.imm.pku.edu.cn/images/content/2017-01/20170112141644371475.jpg
   email: caohuiqing(at)pku.edu.cn 
-  bio: <b>Associate Researcher</b> <br> Institute of Molecular Medicine <br> College of Future Technology <br> Peking University <br> <br>
+  bio: <b>Associate Professor</b> <br> Institute of Molecular Medicine <br> College of Future Technology <br> Peking University <br> <br>
   url: http://www.imm.pku.edu.cn/kytd/rcdw/23688.htm
   visible: true
   
@@ -28,7 +28,7 @@
   role: Postdoc
   img: /img/members/hlf.jpg
   bio: Peking University, PhD <br> <br>
-  research: 
+  research: Gene editing
   url: 
   visible: True
 
@@ -82,9 +82,9 @@
 
 - name: Kangwei Wang
   role: PhD Student
-  img: /img/male.jpg
-  bio: <br> <br> <br>
-  research: 
+  img: /img/members/wkw.jpg
+  bio: Dalian Medical University, Master <br> <br>
+  research: Cardiac regeneration
   url: 
   visible: True
 
@@ -98,9 +98,9 @@
 
 - name: Qixuan Cheng
   role: PhD Student
-  img: /img/female.png
+  img: /img/members/cqx.jpg
   bio: China Agricutural University, Bachelor <br> <br>
-  research:
+  research: RNA biotechnology
   url: 
   visible: True
 
@@ -157,7 +157,7 @@
   role: Undergraduate
   img: /img/members/zxy.jpg
   bio: Peking University<br> <br> <br>
-  research:
+  research: microRNA
   url: 
   visible: True
   
