@@ -4,7 +4,7 @@ title: "Publications"
 description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >3000)"
 header-img: "img/molecule.png"
 ---
-- **Year 2021 and Before**
+ **Year 2021 and Before**
 
 - 43: *Guo W, Wang S, Zhang X, Shi M, Duan F, Hao J, Gu K, Quan L, Wu Y, Liang Z and **\*Wang Y**. Acidic pH transiently prevents the silencing of self-renewal and dampens microRNA function in embryonic stem cells. _**Science Bulletin**_ 2021 Jul 15;66(13):1319-1329. [Link](https://doi.org/10.1016/j.scib.2021.03.005).
 
