@@ -28,7 +28,7 @@
   role: Postdoc
   img: /img/members/hlf.jpg
   bio: Peking University, PhD <br> <br>
-  research: Gene editing
+  research: Biotechnology
   url: 
   visible: True
 
@@ -36,7 +36,7 @@
   role: Postdoc
   img: /img/male.jpg
   bio: Nanjing Agricultural University, PhD <br> <br>
-  research: Embryonic development
+  research: Early embryonic development
   url: 
   visible: True
 
@@ -44,7 +44,7 @@
   role: PhD Student
   img: /img/members/zyt.jpg
   bio: Sichuan University, Bachelor <br> <br>
-  research: lncRNA and CRISPR-Cas9
+  research: lncRNA reporter and screening
   url: 
   visible: True
 
@@ -52,7 +52,7 @@
   role: PhD Student
   img: /img/members/zxs.jpg
   bio: China Agricutural University, Bachelor <br> <br>
-  research: Organoid
+  research: Organoid technology
   url: 
   visible: True
 
@@ -60,7 +60,7 @@
   role: PhD Student
   img: /img/members/lz.jpg
   bio: Hubei University, Bachelor <br> <br>
-  research: lncRNA and RNA-protein interactions
+  research: lncRNA
   url: 
   visible: True
 
@@ -68,7 +68,7 @@
   role: PhD Student
   img: /img/female.png
   bio: Huazhong Agricutural University, Bachelor <br> <br>
-  research: Gene editing
+  research: Structure and biotechnology
   url: 
   visible: True
 
@@ -76,7 +76,7 @@
   role: PhD Student
   img: /img/members/wjing.jpg
   bio: Chinese Academy of Agricultural Sciences, Master<br> <br>
-  research: lncRNA and gene editing
+  research: Biotechnology
   url: 
   visible: True
 
@@ -92,7 +92,7 @@
   role: PhD Student
   img: /img/members/sming.jpg
   bio: Qufu Normal University, Master <br> <br>
-  research: Embryonic development
+  research: Early embryonic development
   url: 
   visible: True
 
@@ -100,7 +100,7 @@
   role: PhD Student
   img: /img/members/cqx.jpg
   bio: China Agricutural University, Bachelor <br> <br>
-  research: RNA biotechnology
+  research: Biotechnology
   url: 
   visible: True
 
@@ -117,7 +117,7 @@
   role: Technician
   img: /img/members/dsj.jpg
   bio: Nanchang University, Master <br> <br>
-  research: Organoid
+  research: Organoid and human diseases
   url: 
   visible: True
 
@@ -133,7 +133,7 @@
   role: Undergraduate
   img: /img/female.png
   bio: Peking University<br> <br> <br>
-  research: Gene editing
+  research: Biotechnology
   url: 
   visible: True
 
@@ -149,7 +149,7 @@
   role: Undergraduate
   img: /img/members/wjz.jpg
   bio: Peking University<br> <br> <br>
-  research: Gene editing
+  research: RNA biotechnology
   url: 
   visible: True
 
@@ -157,7 +157,7 @@
   role: Undergraduate
   img: /img/members/zxy.jpg
   bio: Peking University <br> <br>
-  research: microRNA
+  research: microRNA and biotechnology
   url: 
   visible: True
   
@@ -165,7 +165,7 @@
   role: Undergraduate
   img: /img/male.jpg
   bio: Peking University<br> <br> <br>
-  research:
+  research: RNA biotechnology
   url: 
   visible: True
 
