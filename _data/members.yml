@@ -18,7 +18,8 @@
   
 - name: Yixia Wu
   role: Lab Manager
-  img: /img/female.png
+  img: /img/members/wyx.jpg
+  email: wuyixia0602(at)163.com
   bio: 
   research: Daily affairs management<br> <br> 
   url: 
@@ -34,7 +35,7 @@
 
 - name: Wang Yao, PhD
   role: Postdoc
-  img: /img/male.jpg
+  img: /img/members/yw.jpg
   bio: Nanjing Agricultural University, PhD <br> <br>
   research: Early embryonic development
   url: 
@@ -131,7 +132,7 @@
 
 - name: Yuxuan Li
   role: Undergraduate
-  img: /img/female.png
+  img: /img/members/lyx.jpg
   bio: Peking University<br> <br> <br>
   research: Biotechnology
   url: 
@@ -169,50 +170,40 @@
   url: 
   visible: True
 
+# Former members below
+
 - name: Chao Zhang
   role: PhD
-  img: 
   bio: Peking University
   research: organoid research at Nanyang Technological University, Singapore.
-  url: 
   visible: False
 
 - name: Xiwen Wang
   role: PhD
-  img: 
   bio: Peking University
   research: RNA research at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University.
-  url: 
   visible: False
 
 - name: Jing Hao
   role: PhD
-  img: 
   bio: Peking University
   research: 
-  url: 
   visible: False
 
 - name: Feifei Duan
   role: PhD
-  img: 
   bio: Peking University
   research: 
-  url: 
   visible: False
 
 - name: Shaohua Wang
   role: PhD
-  img: 
   bio: Peking University
   research: 
-  url: 
   visible: False
 
 - name: Yiwen Zhang
   role: Technician
-  img: 
   bio: Peking University
   research: 
-  url: 
   visible: False
