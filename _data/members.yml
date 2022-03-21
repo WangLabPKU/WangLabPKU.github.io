@@ -67,7 +67,7 @@
 
 - name: Li Mi
   role: PhD Student
-  img: /img/female.png
+  img: /img/members/lm.jpg
   bio: Huazhong Agricutural University, Bachelor <br> <br>
   research: Structure and biotechnology
   url: 
@@ -124,7 +124,7 @@
 
 - name: Yang Liu
   role: Technician
-  img: /img/female.png
+  img: /img/members/ly.jpg
   bio: Guangxi University, Master <br> <br>
   research: Bioinformatics
   url: 
