@@ -4,7 +4,7 @@
   role: PI
   img: /img/members/wym.jpg
   email: yangming.wang(at)pku.edu.cn 
-  bio: <b>Professor</b> <br> <b>Distinguished Young Scholar of National Natural Science Foundation</b> <br> Institute of Molecular Medicine <br> College of Future Technology <br> Peking University <br> <b> Education</b> <br> 1996-2000, School of Life Sciences, Peking University, B.S. <br> 2001-2006, University of Illinois at Urbana-Champaign, Ph.D.; Mentor&#58 Scott K. Silverman<br> 2006-2010, Postdoc at University of California, San Francisco, USA; Mentor&#58 Robert H. Blelloch 
+  bio: <b>Professor</b> <br> <b>Distinguished Young Scholar of National Natural Science Foundation</b> <br> Institute of Molecular Medicine, College of Future Technology <br> Peking University <br> <b> Education</b> <br> 1996-2000, School of Life Sciences, Peking University, B.S. <br> 2001-2006, University of Illinois at Urbana-Champaign, Ph.D.; Mentor&#58 Scott K. Silverman<br> 2006-2010, Postdoc at University of California, San Francisco, USA; Mentor&#58 Robert H. Blelloch 
   url: https://future.pku.edu.cn/jsdw/jy/fzyxs1/4185484966f94b3dbb2ede3151b3913a.htm
   visible: true
    
@@ -12,7 +12,7 @@
   role: Co-PI
   img: https://www.imm.pku.edu.cn/images/content/2017-01/20170112141644371475.jpg
   email: caohuiqing(at)pku.edu.cn 
-  bio: <b>Associate Professor</b> <br> Institute of Molecular Medicine <br> College of Future Technology <br> Peking University <br> <br>
+  bio: <b>Associate Professor</b> <br> Institute of Molecular Medicine, College of Future Technology <br> Peking University <br> <br>
   url: http://www.imm.pku.edu.cn/kytd/rcdw/23688.htm
   visible: true
   
@@ -21,14 +21,14 @@
   img: /img/members/wyx.jpg
   email: wuyixia0602(at)163.com
   bio: 
-  research: Daily affairs management<br> <br> 
+  research: Daily affairs management  
   url: 
   visible: True
 
 - name: Lufeng Hu, PhD
   role: Postdoc
   img: /img/members/hlf.jpg
-  bio: Peking University, PhD <br> <br>
+  bio: Peking University, PhD  
   research: Biotechnology
   url: 
   visible: True
@@ -36,7 +36,7 @@
 - name: Wang Yao, PhD
   role: Postdoc
   img: /img/members/yw.jpg
-  bio: Nanjing Agricultural University, PhD <br> <br>
+  bio: Nanjing Agricultural University, PhD  
   research: Early embryonic development
   url: 
   visible: True
@@ -44,7 +44,7 @@
 - name: Yuting Zhao 
   role: PhD Student
   img: /img/members/zyt.jpg
-  bio: Sichuan University, Bachelor <br> <br>
+  bio: Sichuan University, Bachelor  
   research: lncRNA reporter and screening
   url: 
   visible: True
@@ -52,7 +52,7 @@
 - name: Xiaoshan Zhang
   role: PhD Student
   img: /img/members/zxs.jpg
-  bio: China Agricutural University, Bachelor <br> <br>
+  bio: China Agricutural University, Bachelor  
   research: Organoid technology
   url: 
   visible: True
@@ -60,7 +60,7 @@
 - name: Zhen Li
   role: PhD Student
   img: /img/members/lz.jpg
-  bio: Hubei University, Bachelor <br> <br>
+  bio: Hubei University, Bachelor  
   research: lncRNA
   url: 
   visible: True
@@ -68,7 +68,7 @@
 - name: Li Mi
   role: PhD Student
   img: /img/members/lm.jpg
-  bio: Huazhong Agricutural University, Bachelor <br> <br>
+  bio: Huazhong Agricutural University, Bachelor  
   research: Structure and biotechnology
   url: 
   visible: True
@@ -76,7 +76,7 @@
 - name: Jing Wang
   role: PhD Student
   img: /img/members/wjing.jpg
-  bio: Chinese Academy of Agricultural Sciences, Master<br> <br>
+  bio: Chinese Academy of Agricultural Sciences, Master 
   research: Biotechnology
   url: 
   visible: True
@@ -84,7 +84,7 @@
 - name: Kangwei Wang
   role: PhD Student
   img: /img/members/wkw.jpg
-  bio: Dalian Medical University, Master <br> <br>
+  bio: Dalian Medical University, Master  
   research: Cardiac regeneration
   url: 
   visible: True
@@ -92,7 +92,7 @@
 - name: Ming Shi
   role: PhD Student
   img: /img/members/sming.jpg
-  bio: Qufu Normal University, Master <br> <br>
+  bio: Qufu Normal University, Master  
   research: Early embryonic development
   url: 
   visible: True
@@ -100,7 +100,7 @@
 - name: Qixuan Cheng
   role: PhD Student
   img: /img/members/cqx.jpg
-  bio: China Agricutural University, Bachelor <br> <br>
+  bio: China Agricutural University, Bachelor  
   research: Biotechnology
   url: 
   visible: True
@@ -109,7 +109,7 @@
   role: PhD Student
   img: /img/members/xg.jpg
   github: JeremyTse
-  bio: Huazhong University of Science and Technology, Bachelor <br>
+  bio: Huazhong University of Science and Technology, Bachelor 
   research: RNA Bioinformatics
   url: 
   visible: True
@@ -117,7 +117,7 @@
 - name: Shuangjin Ding
   role: Technician
   img: /img/members/dsj.jpg
-  bio: Nanchang University, Master <br> <br>
+  bio: Nanchang University, Master  
   research: Organoid and human diseases
   url: 
   visible: True
@@ -125,7 +125,7 @@
 - name: Yang Liu
   role: Technician
   img: /img/members/ly.jpg
-  bio: Guangxi University, Master <br> <br>
+  bio: Guangxi University, Master  
   research: Bioinformatics
   url: 
   visible: True
@@ -133,7 +133,7 @@
 - name: Yuxuan Li
   role: Undergraduate
   img: /img/members/lyx.jpg
-  bio: Peking University<br> <br> <br>
+  bio: Peking University  
   research: Biotechnology
   url: 
   visible: True
@@ -141,7 +141,7 @@
 - name: Jie Wang
   role: Undergraduate
   img: /img/male.jpg
-  bio: Lanzhou University<br> <br> <br>
+  bio: Lanzhou University  
   research: RNA binding protein
   url: 
   visible: True
@@ -149,7 +149,7 @@
 - name: Jiazhen Wang
   role: Undergraduate
   img: /img/members/wjz.jpg
-  bio: Peking University<br> <br> <br>
+  bio: Peking University  
   research: RNA biotechnology
   url: 
   visible: True
@@ -157,7 +157,7 @@
 - name: Xiangyu Zhang
   role: Undergraduate
   img: /img/members/zxy.jpg
-  bio: Peking University <br> <br>
+  bio: Peking University  
   research: microRNA and biotechnology
   url: 
   visible: True
@@ -165,7 +165,7 @@
 - name: Ruizhe Li
   role: Undergraduate
   img: /img/male.jpg
-  bio: Peking University<br> <br>
+  bio: Peking University 
   research: RNA biotechnology
   url: 
   visible: True
