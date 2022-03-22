@@ -164,7 +164,7 @@ header-img: "img/newyear.png"
 	<h1>Alumni</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.visible == false %}
-	<p style="margin-bottom: 5px; font-size: 21px;">
+	<div style="margin-bottom: 5px; font-size: 21px;">
 		<b>{{ member.name }}, </b>
 	{% if member.role %}
 		<b>{{ member.role }}. </b>
@@ -172,7 +172,7 @@ header-img: "img/newyear.png"
 	{% if member.bio %}
 	Now {{ member.bio }}.
 	{% endif %}
-	</p>
+	</div>
 {% endif %}{% endfor %}
 </div>
 ...
