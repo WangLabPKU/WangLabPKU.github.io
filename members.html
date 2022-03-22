@@ -4,7 +4,7 @@ title: "Members"
 description: "Members working and studying at CAMELab \n"
 header-img: "img/newyear.png"
 ---
-<div style="clear:both; margin-top: 5px;">
+<div style="clear:both; margin-top: 5px; font-size: 25px;">
 	<h1>PI</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.role == 'PI' %} {% if member.visible == true %}
@@ -24,7 +24,7 @@ header-img: "img/newyear.png"
 {% endif %}{% endif %}{% endfor %}
 </div>
 <br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
+<div style="clear:both; margin-top: 5px; font-size: 25px;">
 	<h1>Co-PI</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.role == 'Co-PI' %} {% if member.visible == true %}
@@ -164,15 +164,15 @@ header-img: "img/newyear.png"
 	<h1>Alumni</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.visible == false %}
-	<div style="margin-bottom: 5px;">
+	<p style="margin-bottom: 5px; font-size: 21px;">
 		<b>{{ member.name }}, </b>
 	{% if member.role %}
 		<b>{{ member.role }}. </b>
 	{% endif %}
-	{% if member.research %}
-	Now {{ member.research }}
+	{% if member.bio %}
+	Now {{ member.bio }}.
 	{% endif %}
-	</div>
+	</p>
 {% endif %}{% endfor %}
 </div>
 ...

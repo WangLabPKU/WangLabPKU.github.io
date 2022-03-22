@@ -172,38 +172,87 @@
 
 # Former members below
 
-- name: Chao Zhang
+- name: Yapu Li
   role: PhD
-  bio: Peking University
-  research: organoid research at Nanyang Technological University, Singapore.
+  bio: 
+  visible: False
+
+- name: Xi Yang
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Wenting Guo
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Yuelong Yan
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Kaili Gu
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Ying Yan
+  role: PhD
+  bio: 
   visible: False
 
 - name: Xiwen Wang
   role: PhD
-  bio: Peking University
-  research: RNA research at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University.
-  visible: False
-
-- name: Jing Hao
-  role: PhD
-  bio: Peking University
-  research: 
-  visible: False
-
-- name: Feifei Duan
-  role: PhD
-  bio: Peking University
-  research: 
+  bio: RNA biotechnology research at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University
   visible: False
 
 - name: Shaohua Wang
   role: PhD
-  bio: Peking University
-  research: 
+  bio: 
+  visible: False
+
+- name: Renda Wu
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Xuetao Zhang
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Leqi Liao
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Chao Zhang
+  role: PhD
+  bio: organoid technology research at Nanyang Technological University, Singapore
+  visible: False
+
+- name: Jing Hao
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Feifei Duan
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Xinxin Zhang
+  role: Master
+  bio:
+  visible: False
+  
+- name: Yazi Qiu
+  role: Master
+  bio:
   visible: False
 
 - name: Yiwen Zhang
   role: Technician
-  bio: Peking University
-  research: 
+  bio: 
   visible: False
