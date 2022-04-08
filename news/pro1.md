@@ -4,7 +4,7 @@ title: "Research Progress"
 description: 
 header-img: "img/molecule.png"
 ---
-## Nature Communications | Trincr1 lncRNA can regulate the FGF/ERK signaling and self-renewal of ESCs
+### Nat Commun | We found Trincr1 lncRNA can regulate the FGF/ERK signaling and self-renewal of ESCs
 
 北京大学分子医学研究所汪阳明课题组与南开大学杨娜实验室合作，发现抑制FGF/ERK信号通路的长非编码RNA，并解析了其促进胚胎干细胞自我更新的功能和机制。这项成果以"[A TRIM71 binding long noncoding RNA Trincr1 represses FGF/ERK signaling in embryonic stem cells](https://www.nature.com/articles/s41467-019-08911-w)"为题，于2019年3月25日在线发表于**《自然·通讯》(_Nature Communications_)**。
 
