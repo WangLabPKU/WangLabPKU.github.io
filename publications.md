@@ -4,6 +4,9 @@ title: "Publications"
 description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >3000)"
 header-img: "img/molecule.png"
 ---
+
+- 44: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews: RNA**_. 2022 Apr 8:e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
+
 **Year 2021 and Before**
 
 - 43: *Guo W, Wang S, Zhang X, Shi M, Duan F, Hao J, Gu K, Quan L, Wu Y, Liang Z and **\*Wang Y**. Acidic pH transiently prevents the silencing of self-renewal and dampens microRNA function in embryonic stem cells. _**Science Bulletin**_ 2021 Jul 15; 66(13): 1319-1329. [Link](https://doi.org/10.1016/j.scib.2021.03.005).
