@@ -7,11 +7,11 @@ header-img: "img/home-bg-new.jpg"
 
 **We always have research opportunities in our lab for motivated students and postdocs. Please contact us if you're interested in our research.**
 
-## Postdoc
+### Postdoc
 
 Postdoc applicants interested in joining our lab can submit a CV, a research statement with description of past and future research plans or interests, and contact information for references. 
 
-## PhD Student
+### PhD Student
 
 We are looking forward to highly motivated PhD students to join us and push forward the interesting frontier of RNA or stem cell researches and their technologies. There are two programs available to become a PhD student in our lab.
 
@@ -20,6 +20,6 @@ We are looking forward to highly motivated PhD students to join us and push forw
 
 The rotation for PTN Program students are welcome to our lab!
 
-## Undergraduate
+### Undergraduate
 
 We are also looking forward to excellent undergraduate students to join us.

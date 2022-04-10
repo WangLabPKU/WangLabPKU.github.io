@@ -13,6 +13,12 @@ header-img: "img/molecule.png"
 
 #### Year 2021 and Before
 
+- 43: *Guo W, Wang S, Zhang X, Shi M, Duan F, Hao J, Gu K, Quan L, Wu Y, Liang Z and **\*Wang Y**. Acidic pH transiently prevents the silencing of self-renewal and dampens microRNA function in embryonic stem cells. _**Science Bulletin**_ 2021 Jul 15; 66(13): 1319-1329. [Link](https://doi.org/10.1016/j.scib.2021.03.005).
+
+- 42: Zhao YT and **\*Wang Y**. Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. _**Cell Discovery**_ 2021 Jun 15; 7(1): 45. [Link](https://doi.org/10.1038/s41421-021-00272-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/34127653). 
+
+- 41: Wang SH, Zhang C and **\*Wang Y**. microRNA regulation of pluripotent state transition. _**Essays in Biochemistry**_ 2020 Dec 7; 64(6): 947-954. [Link](https://doi.org/10.1042/EBC20200028). [PubMed](https://pubmed.ncbi.nlm.nih.gov/33034348).
+
 - 40: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, **Cao H** and **\*Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. _**Cell Proliferation**_ 2020 Nov; 53(11): e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
 
 - 39: #Guo CJ, #Ma XK, Xing YH, Zheng CC, Xu YF, Shan L, Zhang J, Wang S, **Wang Y**, Carmichael GG, Yang L, \*Chen LL. Distinct Processing of lncRNAs Contributes to Non-conserved Functions in Stem Cells. _**Cell**_ 2020 Apr 30; 181(3): 621-636.e22. [Link](https://doi.org/10.1016/j.cell.2020.03.006). Epub 2020 Apr 6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32259487).
