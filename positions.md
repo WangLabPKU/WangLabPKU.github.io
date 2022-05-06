@@ -16,7 +16,7 @@ Postdoc applicants interested in joining our lab can <a href="mailto: yangming.w
 We are looking forward to highly motivated PhD students to join us and push forward the interesting frontier of stem cell, gene editing, and RNA regulation researches as well as their technologies. Applicants who are interested in joining CAMELab can <a href="mailto: yangming.wang@pku.edu.cn">contact us by email</a> in advance, and you can join us as a PhD student through the following two programs.
 
 - <u><a href="https://future.pku.edu.cn/xwyjz/xwzk/07b48713a6eb4cb4ac654fdf61031261.htm">Graduate Program in College of Future Technology, Peking University</a></u>
-- <u><a href="http://www.nibs.ac.cn/newsshow.php?cid=4&sid=14&id=2406">Peking-Tsinghua-NIBS Joint PhD Graduate Program (PTN Program)</a></u>
+- <u><a href="http://www.nibs.ac.cn/yjsjyshow.php?cid=8&sid=26&zid=81&id=2495">Peking-Tsinghua-NIBS Joint PhD Graduate Program (PTN Program) in 2022</a></u>
 
 The rotation for PTN Program students are welcome to our lab!
 

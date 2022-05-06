@@ -122,14 +122,6 @@
   url: 
   visible: True
 
-- name: Yang Liu
-  role: Technician
-  img: /img/members/ly.jpg
-  bio: Guangxi University, Master  
-  research: Bioinformatics
-  url: 
-  visible: True
-
 - name: Yuxuan Li
   role: Undergraduate
   img: /img/members/lyx.jpg
@@ -253,6 +245,11 @@
   visible: False
 
 - name: Yiwen Zhang
+  role: Technician
+  bio: 
+  visible: False
+
+- name: Yang Liu
   role: Technician
   bio: 
   visible: False
