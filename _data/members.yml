@@ -115,7 +115,7 @@
   visible: True
 
 - name: Shuangjin Ding
-  role: Technician
+  role: PhD Student
   img: /img/members/dsj.jpg
   bio: Nanchang University, Master  
   research: Organoid and human diseases
@@ -123,17 +123,17 @@
   visible: True
 
 - name: Yuxuan Li
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/lyx.jpg
-  bio: Peking University  
+  bio: Peking University, Bachelor
   research: Biotechnology
   url: 
   visible: True
 
 - name: Jie Wang
-  role: Undergraduate
+  role: Rotation Student
   img: /img/male.jpg
-  bio: Lanzhou University  
+  bio: Lanzhou University, Bachelor
   research: RNA binding protein
   url: 
   visible: True
@@ -159,6 +159,22 @@
   img: /img/male.jpg
   bio: Peking University 
   research: RNA biotechnology
+  url: 
+  visible: True
+
+- name: Yuanjun Yin
+  role: Undergraduate
+  img: /img/male.jpg
+  bio: Peking University 
+  research: 
+  url: 
+  visible: True
+
+- name: Cunyuan Wang
+  role: Undergraduate
+  img: /img/male.jpg
+  bio: Peking University 
+  research: 
   url: 
   visible: True
 
@@ -196,7 +212,7 @@
 
 - name: Xiwen Wang
   role: PhD
-  bio: RNA biotechnology research at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University
+  bio: Postdoc at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University
   visible: False
 
 - name: Shaohua Wang
@@ -221,7 +237,7 @@
 
 - name: Chao Zhang
   role: PhD
-  bio: organoid technology research at Nanyang Technological University, Singapore
+  bio: Postdoc at Nanyang Technological University, Singapore
   visible: False
 
 - name: Jing Hao
@@ -242,6 +258,11 @@
 - name: Yazi Qiu
   role: Master
   bio:
+  visible: False
+
+- name: Tianen He
+  role: Bachelor
+  bio: PhD Student at University of Oxford, UK. She won the titles "Outstanding Bachelor in Beijing" and "Outstanding Bachelor of Peking University" in 2022
   visible: False
 
 - name: Yiwen Zhang
