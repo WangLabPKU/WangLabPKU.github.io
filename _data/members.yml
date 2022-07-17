@@ -41,18 +41,10 @@
   url: 
   visible: True
 
-- name: Yuting Zhao 
-  role: PhD Student
-  img: /img/members/zyt.jpg
-  bio: Sichuan University, Bachelor  
-  research: lncRNA reporter and screening
-  url: 
-  visible: True
-
 - name: Xiaoshan Zhang
-  role: PhD Student
+  role: Postdoc
   img: /img/members/zxs.jpg
-  bio: China Agricutural University, Bachelor  
+  bio: Peking University, PhD
   research: Organoid technology
   url: 
   visible: True
@@ -246,6 +238,11 @@
   visible: False
 
 - name: Feifei Duan
+  role: PhD
+  bio: 
+  visible: False
+
+- name: Yuting Zhao 
   role: PhD
   bio: 
   visible: False
