@@ -5,17 +5,15 @@
 layout: home
 ---
 
-> Stem cell, an undifferentiated cell that can divide to produce some offspring cells that continue as stem cells and some cells that are destined to differentiate (become specialized). They are expected to be used to cure various diseases, such as cancer, neurodegenerative diseases, diabetes, etc. In order to realize the potential of stem cells to cure diseases, we must understand the molecular mechanisms that regulate the proliferation (or self-renewal) and directed differentiation of stem cells. 
-
+> Engineering uses science and math to solve real world problems. Cellular and Molecular Engineering uses the principles of engineering and life sciences to manipulate and understand biologic processes at cellular or molecular levels. Cells were discovered by Robert Hooke in 1665. Proteins were discovered by Antoine Fourcroy in 1789. Nucleic acids were discovered by Friedrich Miescher in 1868. In the 21st century, it is time to use principles we have learned from them to create something new, useful and fun.
 ### About us
 
-Our lab mainly studies the role of non-coding RNA, the dark matter in cells, during the process of proliferation (or self-renewal) and directed differentiation of stem cells. 
-Our current research focuses on embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), using cell biology, molecular biology, genetics, biochemistry and bioinformatics, combined with new technologies, such as next-generation sequencing (NGS), high-throughput screening, and gene editing. The research content covers stem cell related biological process mechanism, disease model and drug target, as well as the development of generic new technologies related to basic or applied research. We hope to find new targets and techniques to control stem cell proliferation (or self-renewal) and directed differentiation by these researches.
+Our lab have mainly focused on studying the molecular mechanisms controlling the self-renewal and cell fate determination of embryonic stem cells, especially those related to noncoding RNAs including microRNAs and long noncoding RNAs, the so called dark matter in cells. However, our current research mainly focuses on using interdisciplinary engineering approaches to develop new technologies addressing problems in RNA biology and stem cell biology. We are also interested in developing new genome editing tools. Devoted students and researchers with background in cell biology, molecular biology, biochemistry and bioinformatics with an ambition in creating new things are always welcome to visit or join us.
 
-### Major Achievements
+### Major Achievements in past 10 years
 
-- Established a miRNA full knockout mESC, and the first to reveal the important role of the miRNA pathway in the proliferation and differentiation of ESCs
 - Discovered the miR-290/302 family that regulate the functions of embryonic stem cell proliferation, cell cycle, glycolytic metabolism and self-renewal, and revealed the molecular mechanism
-- Invented the technology platform that miRNA activates the CRISPR-Cas9 gene editing system, and the novel non-coding RNA promoter activity reporter gene technology
-- Elucidated important function of a lncRNA in regulating FGF/ERK signaling and self-renewal of ESCs
+- Invented miRNA inducible CRISPR-Cas9 platform (MICR) that can be used as a sensor for miRNA expression and cell-specific genome editing tool.
+- Invented a novel promoter activity reporter (GRIT) tracking the transcription of lncRNAs and stem cell state.
+- Identified a lncRNA regulating FGF/ERK signaling and self-renewal of ESCs
 - Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells _in vitro_
