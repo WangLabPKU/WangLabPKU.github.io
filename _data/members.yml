@@ -1,6 +1,6 @@
 # Members
 
-- name: Yangming Wang, PhD
+- name: Yangming Wang
   role: PI
   img: /img/members/wym.jpg
   email: yangming.wang(at)pku.edu.cn 
@@ -8,7 +8,7 @@
   url: https://future.pku.edu.cn/jsdw/jy/fzyxs1/4185484966f94b3dbb2ede3151b3913a.htm
   visible: true
    
-- name: Huiqing Cao, PhD 
+- name: Huiqing Cao
   role: Co-PI
   img: https://www.imm.pku.edu.cn/images/content/2017-01/20170112141644371475.jpg
   email: caohuiqing(at)pku.edu.cn 
@@ -25,7 +25,7 @@
   url: 
   visible: True
 
-- name: Lufeng Hu, PhD
+- name: Lufeng Hu
   role: Postdoc
   img: /img/members/hlf.jpg
   bio: Peking University, PhD  
@@ -33,7 +33,7 @@
   url: 
   visible: True
 
-- name: Wang Yao, PhD
+- name: Wang Yao
   role: Postdoc
   img: /img/members/yw.jpg
   bio: Nanjing Agricultural University, PhD  
