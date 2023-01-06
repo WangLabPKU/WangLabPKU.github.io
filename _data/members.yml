@@ -123,10 +123,18 @@
   visible: True
 
 - name: Jie Wang
-  role: Rotation Student
+  role: PhD Student
   img: /img/members/wjie.jpg
   bio: Lanzhou University, Bachelor
   research: RNA binding protein
+  url: 
+  visible: True
+
+- name: Yawen Liu
+  role: PhD Student
+  img: /img/female.png
+  bio: Peking University, Master
+  research: Early embryonic development
   url: 
   visible: True
 
