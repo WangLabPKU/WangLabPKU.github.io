@@ -250,17 +250,17 @@
 
 - name: Jing Hao
   role: PhD
-  bio: 
+  bio: Work in Beijing
   visible: False
 
 - name: Feifei Duan
   role: PhD
-  bio: 
+  bio: Work in Suzhou
   visible: False
 
 - name: Yuting Zhao 
   role: PhD
-  bio: 
+  bio: Work in Beijing
   visible: False
 
 - name: Xinxin Zhang
@@ -268,7 +268,7 @@
   bio:
   visible: False
   
-- name: Yazi Qiu
+- name: Ya-Tzu Chiu
   role: Master
   bio:
   visible: False
@@ -280,7 +280,7 @@
 
 - name: Yiwen Zhang
   role: Technician
-  bio: 
+  bio: Work in Beijing
   visible: False
 
 - name: Yang Liu
