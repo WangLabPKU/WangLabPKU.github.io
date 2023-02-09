@@ -1,11 +1,13 @@
 ---
 layout: pub
 title: "Publications"
-description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS <br>(Total citations > 3000, H-index = 25)"
+description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS <br>(Total citations > 3000, H-index = 26)"
 header-img: "img/molecule.png"
 ---
 
 #### 2022 - Present
+
+- 46: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023. Accepted.
 
 - 45: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews. RNA**_ 2022 Apr 8:e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
 
