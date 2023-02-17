@@ -18,4 +18,4 @@ Our lab have mainly focused on studying the molecular mechanisms controlling the
 - Invented a novel promoter activity reporter (GRIT) tracking the transcription of lncRNAs and stem cell state.
 - Identified a lncRNA regulating FGF/ERK signaling and self-renewal of ESCs.
 - Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells _in vitro_.
-- Develop Ddd_Ss-derived cytosine base editors (DdCBE_Ss) and introduce mutations at multiple mitochondrial DNA loci including previously inaccessible GC context.
+- Developed Ddd_Ss-derived cytosine base editors (DdCBE_Ss) and introduced mutations at multiple mitochondrial DNA loci including previously inaccessible GC context.
