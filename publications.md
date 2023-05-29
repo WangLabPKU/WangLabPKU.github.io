@@ -1,19 +1,21 @@
 ---
 layout: pub
 title: "Publications"
-description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS <br>(Total citations > 3000, H-index = 26)"
+description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS <br>(Total citations > 3500, H-index = 26)"
 header-img: "img/molecule.png"
 ---
 
 #### 2022 - Present
 
-- 47: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023 Feb 16;14(1):874. [Link](https://doi.org/10.1038/s41467-023-36600-2). [PubMed](https://pubmed.ncbi.nlm.nih.gov/36797253).
+- 48: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023 Feb 16; 14(1): 874. [Link](https://doi.org/10.1038/s41467-023-36600-2). [PubMed](https://pubmed.ncbi.nlm.nih.gov/36797253).
 
-- 46: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews. RNA**_ 2023 Jan;14(1):e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub 2022 Apr 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
+- 47: Huang R, Liu J, Chen X, Zhi Y, Ding S, Ming J, Li Y, **Wang Y**, \*Na J. A long non-coding RNA LncSync regulates mouse cardiomyocyte homeostasis and cardiac hypertrophy through coordination of miRNA actions. _**Protein & Cell**_ 2022 May 28; pwac019. [Link](https://doi.org/10.1093/procel/pwac019).
+
+- 46: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews-RNA**_ 2023 Jan;14(1):e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub 2022 Apr 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
 
 - 45: Wang SH, Hao J, Zhang C, Duan FF, Chiu YT, Shi M, Huang X, Yang J, **\*Cao H**, **\*Wang Y**. _KLF17_ promotes human naive pluripotency through repressing _MAPK3_ and _ZIC2_. _**Science China-Life Sciences**_ 2022 Oct; 65(10): 1985-1997. [Link](https://doi.org/10.1007/s11427-021-2076-x). Epub 2022 Apr 1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35391627).
 
-#### 2021年及之前
+#### 2021 and Before
 
 - 44: *Guo W, Wang S, Zhang X, Shi M, Duan F, Hao J, Gu K, Quan L, Wu Y, Liang Z and **\*Wang Y**. Acidic pH transiently prevents the silencing of self-renewal and dampens microRNA function in embryonic stem cells. _**Science Bulletin**_ 2021 Jul 15; 66(13): 1319-1329. [Link](https://doi.org/10.1016/j.scib.2021.03.005).
 

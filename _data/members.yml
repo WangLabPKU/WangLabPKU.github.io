@@ -16,7 +16,7 @@
   url: http://www.imm.pku.edu.cn/kytd/rcdw/23688.htm
   visible: true
   
-- name: Yixia Wu
+- name: Yi-Xia Wu
   role: Lab Manager
   img: /img/members/wyx.jpg
   email: wuyixia0602(at)163.com
@@ -25,7 +25,7 @@
   url: 
   visible: True
 
-- name: Lufeng Hu
+- name: Lu-Feng Hu
   role: Postdoc
   img: /img/members/hlf.jpg
   bio: Peking University, PhD  
@@ -41,7 +41,7 @@
   url: 
   visible: True
 
-- name: Xiaoshan Zhang
+- name: Xiao-Shan Zhang
   role: Postdoc
   img: /img/members/zxs.jpg
   bio: Peking University, PhD
@@ -73,7 +73,7 @@
   url: 
   visible: True
 
-- name: Kangwei Wang
+- name: Kang-Wei Wang
   role: PhD Student
   img: /img/members/wkw.jpg
   bio: Dalian Medical University, Master  
@@ -89,7 +89,7 @@
   url: 
   visible: True
 
-- name: Qixuan Cheng
+- name: Qi-Xuan Cheng
   role: PhD Student
   img: /img/members/cqx.jpg
   bio: China Agricutural University, Bachelor  
@@ -114,7 +114,7 @@
   url: 
   visible: True
 
-- name: Yuxuan Li
+- name: Yu-Xuan Li
   role: PhD Student
   img: /img/members/lyx.jpg
   bio: Peking University, Bachelor
@@ -130,7 +130,7 @@
   url: 
   visible: True
 
-- name: Yawen Liu
+- name: Ya-Wen Liu
   role: PhD Student
   img: /img/female.png
   bio: Peking University, Master
@@ -138,7 +138,7 @@
   url: 
   visible: True
 
-- name: Jiazhen Wang
+- name: Jia-Zhen Wang
   role: Undergraduate
   img: /img/members/wjz.jpg
   bio: Peking University  
@@ -146,7 +146,7 @@
   url: 
   visible: True
 
-- name: Xiangyu Zhang
+- name: Xiang-Yu Zhang
   role: Undergraduate
   img: /img/members/zxy.jpg
   bio: Peking University  
@@ -154,7 +154,7 @@
   url: 
   visible: True
   
-- name: Zonglin Han
+- name: Zong-Lin Han
   role: Undergraduate
   img: /img/members/hzl.jpg
   bio: South China University of Technology
@@ -162,7 +162,7 @@
   url: 
   visible: True
 
-- name: Ruizhe Li
+- name: Rui-Zhe Li
   role: Undergraduate
   img: /img/male.jpg
   bio: Peking University 
@@ -170,7 +170,7 @@
   url: 
   visible: True
 
-- name: Yuanjun Yin
+- name: Yuan-Jun Yin
   role: Undergraduate
   img: /img/male.jpg
   bio: Peking University 
@@ -178,7 +178,7 @@
   url: 
   visible: True
 
-- name: Cunyuan Wang
+- name: Cun-Yuan Wang
   role: Undergraduate
   img: /img/male.jpg
   bio: Peking University 
@@ -188,7 +188,7 @@
 
 # Former members below
 
-- name: Yapu Li
+- name: Ya-Pu Li
   role: PhD
   bio: 
   visible: False
@@ -198,17 +198,17 @@
   bio: 
   visible: False
 
-- name: Wenting Guo
+- name: Wen-Wing Guo
   role: PhD
   bio: 
   visible: False
 
-- name: Yuelong Yan
+- name: Yao-Long Yan
   role: PhD
   bio: 
   visible: False
 
-- name: Kaili Gu
+- name: Kai-Li Gu
   role: PhD
   bio: 
   visible: False
@@ -218,27 +218,27 @@
   bio: 
   visible: False
 
-- name: Xiwen Wang
+- name: Xi-Wen Wang
   role: PhD
   bio: Postdoc at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University
   visible: False
 
-- name: Shaohua Wang
+- name: Shao-Hua Wang
   role: PhD
   bio: 
   visible: False
 
-- name: Renda Wu
+- name: Ren-Da Wu
   role: PhD
   bio: 
   visible: False
 
-- name: Xuetao Zhang
+- name: Xue-Tao Zhang
   role: PhD
   bio: 
   visible: False
 
-- name: Leqi Liao
+- name: Le-Qi Liao
   role: PhD
   bio: 
   visible: False
@@ -253,19 +253,14 @@
   bio: Work in Beijing
   visible: False
 
-- name: Feifei Duan
+- name: Fei-Fei Duan
   role: PhD
   bio: Work in Suzhou
   visible: False
 
-- name: Yuting Zhao 
+- name: Yu-Ting Zhao 
   role: PhD
   bio: Work in Beijing
-  visible: False
-
-- name: Xinxin Zhang
-  role: Master
-  bio:
   visible: False
   
 - name: Ya-Tzu Chiu
@@ -273,17 +268,21 @@
   bio:
   visible: False
 
-- name: Tianen He
+- name: Qiang Zhang
+  role: Lab Manager
+  visible: False
+
+- name: Tian-En He
   role: Bachelor
   bio: PhD Student at University of Oxford, UK. She won the titles "Outstanding Bachelor in Beijing" and "Outstanding Bachelor of Peking University" in 2022
   visible: False
 
-- name: Yiwen Zhang
-  role: Technician
+- name: Yi-Wen Zhang
+  role: Assistant
   bio: Work in Beijing
   visible: False
 
 - name: Yang Liu
-  role: Technician
+  role: Assistant
   bio: 
   visible: False
