@@ -49,22 +49,6 @@
   url: 
   visible: True
 
-- name: Zhen Li
-  role: PhD Student
-  img: /img/members/lz.jpg
-  bio: Hubei University, Bachelor  
-  research: lncRNA
-  url: 
-  visible: True
-
-- name: Li Mi
-  role: PhD Student
-  img: /img/members/lm.jpg
-  bio: Huazhong Agricutural University, Bachelor  
-  research: Structure and biotechnology
-  url: 
-  visible: True
-
 - name: Jing Wang
   role: PhD Student
   img: /img/members/wjing.jpg
@@ -132,41 +116,49 @@
 
 - name: Ya-Wen Liu
   role: PhD Student
-  img: /img/female.png
+  img: /img/members/lyw.jpg
   bio: Peking University, Master
   research: Early embryonic development
   url: 
   visible: True
 
+- name: Guo-Sheng Gao
+  role: PhD Student
+  img: /img/members/ggs.jpg
+  bio: Tianjin University, Bachelor
+  research: Gene editing
+  url: 
+  visible: True
+
 - name: Jia-Zhen Wang
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/wjz.jpg
-  bio: Peking University  
+  bio: Peking University, Bachelor
   research: RNA biotechnology
   url: 
   visible: True
 
 - name: Xiang-Yu Zhang
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/zxy.jpg
-  bio: Peking University  
+  bio: Peking University, Bachelor
   research: microRNA and biotechnology
   url: 
   visible: True
   
 - name: Zong-Lin Han
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/hzl.jpg
-  bio: South China University of Technology
-  research: Biotechnology
+  bio: South China University of Technology, Bachelor
+  research: Organoid and human diseases
   url: 
   visible: True
 
-- name: Rui-Zhe Li
+- name: Qi-Rui Huang
   role: Undergraduate
   img: /img/male.jpg
   bio: Peking University 
-  research: RNA biotechnology
+  research: Biomedical Engineering
   url: 
   visible: True
 
@@ -189,92 +181,107 @@
 # Former members below
 
 - name: Ya-Pu Li
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Xi Yang
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Wen-Wing Guo
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Yao-Long Yan
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Kai-Li Gu
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Ying Yan
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Xi-Wen Wang
-  role: PhD
+  role: PhD Graduate
   bio: Postdoc at <a href="https://zhanglab.net">ZhangLab</a>, Tsinghua University
   visible: False
 
 - name: Shao-Hua Wang
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Ren-Da Wu
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Xue-Tao Zhang
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Le-Qi Liao
-  role: PhD
+  role: PhD Graduate
   bio: 
   visible: False
 
 - name: Chao Zhang
-  role: PhD
+  role: PhD Graduate
   bio: Postdoc at Nanyang Technological University, Singapore
   visible: False
 
 - name: Jing Hao
-  role: PhD
+  role: PhD Graduate
   bio: Work in Beijing
   visible: False
 
 - name: Fei-Fei Duan
-  role: PhD
+  role: PhD Graduate
   bio: Work in Suzhou
   visible: False
 
 - name: Yu-Ting Zhao 
-  role: PhD
+  role: PhD Graduate
   bio: Work in Beijing
   visible: False
-  
+
+- name: Zhen Li
+  role: PhD Graduate
+  bio: 
+  visible: False
+
+- name: Li Mi
+  role: PhD Graduate
+  bio: 
+  visible: False
+
 - name: Ya-Tzu Chiu
-  role: Master
+  role: Master Graduate
   bio:
   visible: False
 
 - name: Qiang Zhang
-  role: Lab Manager
+  role: Co-PI
   visible: False
 
 - name: Tian-En He
-  role: Bachelor
+  role: Bachelor Graduate
   bio: PhD Student at University of Oxford, UK. She won the titles "Outstanding Bachelor in Beijing" and "Outstanding Bachelor of Peking University" in 2022
+  visible: False
+
+- name: Rui-Zhe Li
+  role: Bachelor Graduate
+  bio: 
   visible: False
 
 - name: Yi-Wen Zhang
@@ -284,5 +291,10 @@
 
 - name: Yang Liu
   role: Assistant
+  bio: 
+  visible: False
+
+- name: Yu-Han Zhang
+  role: Intern
   bio: 
   visible: False
