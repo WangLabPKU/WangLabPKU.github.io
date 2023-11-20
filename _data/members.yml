@@ -156,9 +156,17 @@
 
 - name: Qi-Rui Huang
   role: Undergraduate
-  img: /img/male.jpg
+  img: /img/members/hqr.jpg
   bio: Peking University 
   research: Biomedical Engineering
+  url: 
+  visible: True
+
+- name: Zi-Li Wan
+  role: Undergraduate
+  img: /img/members/wzl.jpg
+  bio: Shandong University
+  research: Biotechnology
   url: 
   visible: True
 
