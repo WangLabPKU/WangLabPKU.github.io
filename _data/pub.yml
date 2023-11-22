@@ -1,14 +1,38 @@
+- DOI: 10.1016/j.scib.2023.11.041
+  PubMed: 
+  URL: https://www.sciencedirect.com/science/article/pii/S2095927323008101
+  author: 'Fandi Shi, Kun Zhang, <font color=#444>Qi-Xuan Cheng</font>, Shiyou Che, Shuxin Zhi, Zhenyu Yu, Fei Liu, <font color=#444>Fei-Fei Duan</font>, *<b>Yangming Wang</b>, *Na Yang'
+  date: 2023 Nov 21
+  fig: 
+  issue: 
+  journal: Science Bulletin
+  pdf: https://www.sciencedirect.com/science/article/pii/S2095927323008101/pdfft?md5=5a241bb6c069f812a1274f8fd0813e8a&pid=1-s2.0-S2095927323008101-main.pdf
+  title: Molecular mechanism governing RNA-binding property of mammalian TRIM71 protein
+  volume: 
+
+- DOI: 10.1021/acsnano.3c08030
+  PubMed: 
+  URL: https://pubs.acs.org/doi/10.1021/acsnano.3c08030
+  author: 'Xiyang Wei, Shicheng Yu, Tinghong Zhang, Liansheng Liu, Xu Wang, Xiaodan Wang, Yun-Shen Chan, <b>Yangming Wang</b>, Shu Meng, *Ye-Guang Chen'
+  date: 2023 Nov 08
+  fig: 
+  issue: 
+  journal: ACS Nano
+  pdf: https://pubs.acs.org/doi/epdf/10.1021/acsnano.3c08030
+  title: MicroRNA-200 Loaded Lipid Nanoparticles Promote Intestinal Epithelium Regeneration in Canonical MicroRNA-Deficient Mice
+  volume: 
+
 - DOI: 10.1088/1758-5090/acee21
   PubMed: '37552975'
   URL: https://iopscience.iop.org/article/10.1088/1758-5090/acee21
   author: '<font color=#444>Xiao-Shan Zhang, Gang Xie</font>, Honghao Ma, <font color=#444>Shuangjin Ding, Yi-Xia Wu</font>, Yuan Fei, Qiang Cheng, Yanyi Huang, *<b>Yangming Wang</b>'
   date: 2023 Aug 08
   fig: 
-  issue: 
+  issue: '4'
   journal: Biofabrication
   pdf: https://iopscience.iop.org/article/10.1088/1758-5090/acee21/pdf
   title: Highly reproducible and cost-effective one-pot organoid differentiation using a novel platform based on PF-127 triggered spheroid assembly
-  volume: 
+  volume: '15'
 
 - DOI: 10.1016/j.tcb.2023.05.009
   PubMed: '37419737'
@@ -74,7 +98,7 @@
   volume: '65'
 
 - DOI: 10.1016/j.scib.2021.03.005
-  PubMed: 
+  PubMed: '36654154'
   URL: https://linkinghub.elsevier.com/retrieve/pii/S2095927321001821
   author: '<font color=#444>*Wen-Ting Guo, Shao-Hua Wang, Xiao-Shan Zhang, Ming Shi, Fei-Fei Duan, Jing Hao, Kai-Li Gu</font>, Li Quan, <font color=#444>Yixia Wu</font>, Zhiyong Liang, *<b>Yangming Wang</b>'
   date: 2021 Jul 01
