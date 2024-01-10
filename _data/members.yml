@@ -178,10 +178,18 @@
   url: 
   visible: True
 
-- name: Cun-Yuan Wang
+- name: Bo-Yan Zhao
   role: Undergraduate
-  img: /img/male.jpg
+  img: /img/female.png
   bio: Peking University 
+  research: Biotechnology
+  url: 
+  visible: True
+
+- name: Jing-Jia Wei
+  role: Undergraduate
+  img: /img/female.png
+  bio: China Agricutural University 
   research: Biotechnology
   url: 
   visible: True

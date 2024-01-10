@@ -1,5 +1,17 @@
-- DOI: 10.1016/j.scib.2023.11.041
+- DOI: 10.1038/s41588-023-01620-7
   PubMed: 
+  URL: https://www.nature.com/articles/s41588-023-01620-7
+  author: '#Wenze Huang, #Tuanlin Xiong, <font color=#444>#Yuting Zhao</font>, Jian Heng, Ge Han, Pengfei Wang, Zhihua Zhao, <font color=#444>Ming Shi</font>, Juan Li, <font color=#444>Jia-Zhen Wang, Yi-Xia Wu</font>, Feng Liu, *Jianzhong Jeff Xi, *<b>Yangming Wang</b>, *Qiangfeng Cliff Zhang'
+  date: 2024 Jan 9
+  fig: 
+  issue: 
+  journal: Nature Genetics
+  pdf: https://www.nature.com/articles/s41588-023-01620-7.pdf
+  title: Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human
+  volume: 
+
+- DOI: 10.1016/j.scib.2023.11.041
+  PubMed: '38036331'
   URL: https://www.sciencedirect.com/science/article/pii/S2095927323008101
   author: 'Fandi Shi, Kun Zhang, <font color=#444>Qi-Xuan Cheng</font>, Shiyou Che, Shuxin Zhi, Zhenyu Yu, Fei Liu, <font color=#444>Fei-Fei Duan</font>, *<b>Yangming Wang</b>, *Na Yang'
   date: 2023 Nov 21
@@ -11,16 +23,16 @@
   volume: 
 
 - DOI: 10.1021/acsnano.3c08030
-  PubMed: 
+  PubMed: '37939210'
   URL: https://pubs.acs.org/doi/10.1021/acsnano.3c08030
   author: 'Xiyang Wei, Shicheng Yu, Tinghong Zhang, Liansheng Liu, Xu Wang, Xiaodan Wang, Yun-Shen Chan, <b>Yangming Wang</b>, Shu Meng, *Ye-Guang Chen'
   date: 2023 Nov 08
   fig: 
-  issue: 
+  issue: '17'
   journal: ACS Nano
   pdf: https://pubs.acs.org/doi/epdf/10.1021/acsnano.3c08030
   title: MicroRNA-200 Loaded Lipid Nanoparticles Promote Intestinal Epithelium Regeneration in Canonical MicroRNA-Deficient Mice
-  volume: 
+  volume: '22'
 
 - DOI: 10.1088/1758-5090/acee21
   PubMed: '37552975'
@@ -40,11 +52,11 @@
   author: '#Yingzi Cui, #Ye Qi, #Li Ding, <font color=#444>Shuangjin Ding, Zong-Lin Han</font>, *<b>Yangming Wang</b>, #*Peng Du'
   date: 2023 Jul 05
   fig: 
-  issue: 
+  issue: '1'
   journal: Trends in Cell Biology
   pdf: https://www.cell.com/action/showPdf?pii=S0962-8924%2823%2900105-8
   title: miRNA dosage control in development and human disease
-  volume: 
+  volume: '31'
 
 - DOI: 10.1038/s41467-023-36600-2
   PubMed: '36797253'
