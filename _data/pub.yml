@@ -1,14 +1,14 @@
 - DOI: 10.1038/s41588-023-01620-7
-  PubMed: 
+  PubMed: '38195860'
   URL: https://www.nature.com/articles/s41588-023-01620-7
-  author: '#Wenze Huang, #Tuanlin Xiong, <font color=#444>#Yuting Zhao</font>, Jian Heng, Ge Han, Pengfei Wang, Zhihua Zhao, <font color=#444>Ming Shi</font>, Juan Li, <font color=#444>Jia-Zhen Wang, Yi-Xia Wu</font>, Feng Liu, *Jianzhong Jeff Xi, *<b>Yangming Wang</b>, *Qiangfeng Cliff Zhang'
+  author: '#Wenze Huang, #Tuanlin Xiong, <font color=#444>#Yu-Ting Zhao</font>, Jian Heng, Ge Han, Pengfei Wang, Zhihua Zhao, <font color=#444>Ming Shi</font>, Juan Li, <font color=#444>Jia-Zhen Wang, Yi-Xia Wu</font>, Feng Liu, *Jianzhong Jeff Xi, *<b>Yangming Wang</b>, *Qiangfeng Cliff Zhang'
   date: 2024 Jan 9
-  fig: 
-  issue: 
+  fig: https://media.springernature.com/full/springer-static/cover-hires/journal/41588/56/1
+  issue: '1'
   journal: Nature Genetics
   pdf: https://www.nature.com/articles/s41588-023-01620-7.pdf
   title: Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human
-  volume: 
+  volume: '56'
 
 - DOI: 10.1016/j.scib.2023.11.041
   PubMed: '38036331'
@@ -16,11 +16,11 @@
   author: 'Fandi Shi, Kun Zhang, <font color=#444>Qi-Xuan Cheng</font>, Shiyou Che, Shuxin Zhi, Zhenyu Yu, Fei Liu, <font color=#444>Fei-Fei Duan</font>, *<b>Yangming Wang</b>, *Na Yang'
   date: 2023 Nov 21
   fig: 
-  issue: 
+  issue: '1'
   journal: Science Bulletin
   pdf: https://www.sciencedirect.com/science/article/pii/S2095927323008101/pdfft?md5=5a241bb6c069f812a1274f8fd0813e8a&pid=1-s2.0-S2095927323008101-main.pdf
   title: Molecular mechanism governing RNA-binding property of mammalian TRIM71 protein
-  volume: 
+  volume: '69'
 
 - DOI: 10.1021/acsnano.3c08030
   PubMed: '37939210'
@@ -39,7 +39,7 @@
   URL: https://iopscience.iop.org/article/10.1088/1758-5090/acee21
   author: '<font color=#444>Xiao-Shan Zhang, Gang Xie</font>, Honghao Ma, <font color=#444>Shuangjin Ding, Yi-Xia Wu</font>, Yuan Fei, Qiang Cheng, Yanyi Huang, *<b>Yangming Wang</b>'
   date: 2023 Aug 08
-  fig: 
+  fig: https://cms.iopscience.org/20fa3db2-ec1f-11e5-b0b6-759f86a2008e/journal_cover
   issue: '4'
   journal: Biofabrication
   pdf: https://iopscience.iop.org/article/10.1088/1758-5090/acee21/pdf
@@ -51,7 +51,7 @@
   URL: https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(23)00105-8
   author: '#Yingzi Cui, #Ye Qi, #Li Ding, <font color=#444>Shuangjin Ding, Zong-Lin Han</font>, *<b>Yangming Wang</b>, #*Peng Du'
   date: 2023 Jul 05
-  fig: 
+  fig: https://www.cell.com/cms/asset/atypon:cms:attachment:img:d179e6:rev:1703376763579-16477:pii:S0962892423X00026/cover.tif.jpg
   issue: '1'
   journal: Trends in Cell Biology
   pdf: https://www.cell.com/action/showPdf?pii=S0962-8924%2823%2900105-8
