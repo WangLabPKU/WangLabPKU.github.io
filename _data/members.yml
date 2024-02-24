@@ -41,14 +41,6 @@
   url: 
   visible: True
 
-- name: Xiao-Shan Zhang
-  role: Postdoc
-  img: /img/members/zxs.jpg
-  bio: Peking University, PhD
-  research: Organoid technology
-  url: 
-  visible: True
-
 - name: Jing Wang
   role: PhD Student
   img: /img/members/wjing.jpg
@@ -151,6 +143,14 @@
   img: /img/members/hzl.jpg
   bio: South China University of Technology, Bachelor
   research: Organoid and human diseases
+  url: 
+  visible: True
+
+- name: Zi-Yin Yang
+  role: PhD Student
+  img: /img/members/yzy.jpg
+  bio: China Agricutural University, Bachelor
+  research: RNA biotechnology
   url: 
   visible: True
 
@@ -271,6 +271,11 @@
   bio: Work in Beijing
   visible: False
 
+- name: Xiao-Shan Zhang
+  role: PhD Graduate, Postdoc
+  bio: Postdoc at Cornell University
+  visible: False
+
 - name: Zhen Li
   role: PhD Graduate
   bio: 
@@ -278,7 +283,7 @@
 
 - name: Li Mi
   role: PhD Graduate
-  bio: 
+  bio: Postdoc at Westlake University
   visible: False
 
 - name: Ya-Tzu Chiu
