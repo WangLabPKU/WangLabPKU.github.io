@@ -194,6 +194,14 @@
   url: 
   visible: True
 
+- name: Yi-Chen Liu
+  role: Undergraduate
+  img: /img/male.jpg
+  bio: Peking University 
+  research: Organoid and human diseases
+  url: 
+  visible: True
+
 # Former members below
 
 - name: Ya-Pu Li
