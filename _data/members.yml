@@ -41,19 +41,19 @@
   url: 
   visible: True
 
+- name: Kang-Wei Wang
+  role: Postdoc
+  img: /img/members/wkw.jpg
+  bio: Peking University, PhD  
+  research: Cardiac regeneration
+  url: 
+  visible: True
+
 - name: Jing Wang
   role: PhD Student
   img: /img/members/wjing.jpg
   bio: Chinese Academy of Agricultural Sciences, Master 
   research: Biotechnology
-  url: 
-  visible: True
-
-- name: Kang-Wei Wang
-  role: PhD Student
-  img: /img/members/wkw.jpg
-  bio: Dalian Medical University, Master  
-  research: Cardiac regeneration
   url: 
   visible: True
 
@@ -155,34 +155,34 @@
   visible: True
 
 - name: Qi-Rui Huang
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/hqr.jpg
-  bio: Peking University 
+  bio: Peking University, Bachelor
   research: Biomedical Engineering
   url: 
   visible: True
 
 - name: Zi-Li Wan
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/wzl.jpg
-  bio: Shandong University
-  research: Biotechnology
-  url: 
-  visible: True
-
-- name: Yuan-Jun Yin
-  role: Undergraduate
-  img: /img/male.jpg
-  bio: Peking University 
+  bio: Shandong University, Bachelor
   research: Biotechnology
   url: 
   visible: True
 
 - name: Bo-Yan Zhao
   role: Undergraduate
-  img: /img/female.png
+  img: /img/members/zby.jpg
   bio: Peking University 
   research: Biotechnology
+  url: 
+  visible: True
+
+- name: Xin-Hui Lai
+  role: Undergraduate
+  img: /img/members/lxh.jpg
+  bio: Peking University 
+  research: Bioinformatics
   url: 
   visible: True
 
@@ -214,7 +214,7 @@
   bio: 
   visible: False
 
-- name: Wen-Wing Guo
+- name: Wen-Ting Guo
   role: PhD Graduate
   bio: 
   visible: False
@@ -311,6 +311,11 @@
 - name: Rui-Zhe Li
   role: Bachelor Graduate
   bio: 
+  visible: False
+
+- name: Yuan-Jun Yin
+  role: Bachelor Graduate
+  bio: PhD Student at Columbia University
   visible: False
 
 - name: Yi-Wen Zhang
