@@ -186,14 +186,6 @@
   url: 
   visible: True
 
-- name: Jing-Jia Wei
-  role: Undergraduate
-  img: /img/female.png
-  bio: China Agricutural University 
-  research: Biotechnology
-  url: 
-  visible: True
-
 - name: Yi-Chen Liu
   role: Undergraduate
   img: /img/male.jpg
@@ -329,6 +321,11 @@
   visible: False
 
 - name: Yu-Han Zhang
+  role: Intern
+  bio: 
+  visible: False
+
+- name: Jing-Jia Wei
   role: Intern
   bio: 
   visible: False
