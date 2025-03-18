@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: "Publications"
-description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS <br>(Total citations > 5000, H-index = 28)"
+description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS <br>(Total citations > 6000, H-index = 29)"
 header-img: "img/molecule.png"
 ---
 

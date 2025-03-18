@@ -7,6 +7,10 @@ header-img: "img/home-bg-new.jpg"
 
 **We always have research opportunities in our lab for motivated students and postdocs. Please contact us if you're interested in our research.**
 
+We are a collaborative, curiosity-driven team seeking passionate researchers and students across disciplines—cell/molecular biology, biochemistry, bioinformatics, chemistry, and engineering—who thrive on innovation and aspire to redefine what's possible in science. Whether you're drawn to untangling RNA complexity, engineering novel biological tools, or applying interdisciplinary strategies to improve human health, we offer a dynamic environment to turn bold ideas into reality.
+
+Join us in shaping the future of biological discovery.
+
 ### Postdoc
 
 Postdoc applicants interested in joining our lab can <a href="mailto: yangming.wang@pku.edu.cn">send me an email</a>, including a CV, a research statement with description of past and future research plans or interests, and contact information for references. 

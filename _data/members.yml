@@ -50,9 +50,9 @@
   visible: True
 
 - name: Jing Wang
-  role: PhD Student
+  role: Postdoc
   img: /img/members/wjing.jpg
-  bio: Chinese Academy of Agricultural Sciences, Master 
+  bio: Peking University, PhD
   research: Biotechnology
   url: 
   visible: True
@@ -191,6 +191,14 @@
   img: /img/male.jpg
   bio: Peking University 
   research: Organoid and human diseases
+  url: 
+  visible: True
+
+- name: Yan Li
+  role: Undergraduate
+  img: /img/female.png
+  bio: China Agricutural University
+  research: Deep learning
   url: 
   visible: True
 
