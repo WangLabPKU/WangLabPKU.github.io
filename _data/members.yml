@@ -49,14 +49,6 @@
   url: 
   visible: True
 
-- name: Jing Wang
-  role: Postdoc
-  img: /img/members/wjing.jpg
-  bio: Peking University, PhD
-  research: Biotechnology
-  url: 
-  visible: True
-
 - name: Ming Shi
   role: PhD Student
   img: /img/members/sming.jpg
@@ -170,27 +162,27 @@
   url: 
   visible: True
 
+- name: Si-Yue Sun
+  role: PhD Student
+  img: /img/female.png
+  bio: Southern University of Science and Technology, Bachelor
+  research: Organoid and human diseases
+  url: 
+  visible: True
+
 - name: Bo-Yan Zhao
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/zby.jpg
-  bio: Peking University 
+  bio: Peking University, Bachelor
   research: Biotechnology
   url: 
   visible: True
 
 - name: Xin-Hui Lai
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/lxh.jpg
-  bio: Peking University 
+  bio: Peking University, Bachelor
   research: Bioinformatics
-  url: 
-  visible: True
-
-- name: Yi-Chen Liu
-  role: Undergraduate
-  img: /img/male.jpg
-  bio: Peking University 
-  research: Organoid and human diseases
   url: 
   visible: True
 
@@ -294,6 +286,11 @@
   bio: Postdoc at Westlake University
   visible: False
 
+- name: Jing Wang
+  role: PhD Graduate, Postdoc
+  bio: 
+  visible: False
+
 - name: Ya-Tzu Chiu
   role: Master Graduate
   bio:
@@ -317,6 +314,11 @@
   role: Bachelor Graduate
   bio: PhD Student at Columbia University
   visible: False
+
+- name: Yi-Chen Liu
+  role: Bachelor Graduate
+  bio: 
+  visible: True
 
 - name: Yi-Wen Zhang
   role: Assistant
