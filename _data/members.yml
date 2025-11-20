@@ -186,11 +186,19 @@
   url: 
   visible: True
 
-- name: Yan Li
+- name: Han Wu
   role: Undergraduate
-  img: /img/female.png
-  bio: China Agricutural University
-  research: Deep learning
+  img: /img/members/wh.jpg
+  bio: Anhui Normal University
+  research: Biotechnology
+  url: 
+  visible: True
+
+- name: Han-Kai Yang
+  role: Undergraduate
+  img: /img/members/yhk.jpg
+  bio: Dalian University of Technology
+  research: Bioinformatics
   url: 
   visible: True
 
