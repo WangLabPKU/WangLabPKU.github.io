@@ -33,14 +33,6 @@
   url: 
   visible: True
 
-- name: Wang Yao
-  role: Postdoc
-  img: /img/members/yw.jpg
-  bio: Nanjing Agricultural University, PhD  
-  research: Early embryonic development
-  url: 
-  visible: True
-
 - name: Kang-Wei Wang
   role: Postdoc
   img: /img/members/wkw.jpg
@@ -186,6 +178,22 @@
   url: 
   visible: True
 
+- name: Ding-Wei Lei
+  role: PhD Student
+  img: /img/members/male.jpg
+  bio: Peking University, Bachelor
+  research: AI
+  url: 
+  visible: True
+
+- name: Si-Jia Wan
+  role: PhD Student
+  img: /img/female.png
+  bio: ShanghaiTech University, Bachelor
+  research: Biotechnology
+  url: 
+  visible: True
+
 - name: Han Wu
   role: Undergraduate
   img: /img/members/wh.jpg
@@ -199,6 +207,14 @@
   img: /img/members/yhk.jpg
   bio: Dalian University of Technology
   research: Bioinformatics
+  url: 
+  visible: True
+
+- name: Fei Ge
+  role: Undergraduate
+  img: /img/female.png
+  bio: Peking University
+  research: 
   url: 
   visible: True
 
@@ -296,6 +312,11 @@
 
 - name: Jing Wang
   role: PhD Graduate, Postdoc
+  bio: 
+  visible: False
+
+- name: Wang Yao
+  role: Postdoc
   bio: 
   visible: False
 
