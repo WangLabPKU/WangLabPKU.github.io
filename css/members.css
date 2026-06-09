@@ -77,12 +77,12 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 22px 18px;
 }
-@media (max-width: 900px) {
+@media (max-width: 1280px) {
     .staff-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-@media (max-width: 520px) {
+@media (max-width: 720px) {
     .staff-grid {
         grid-template-columns: 1fr;
     }
@@ -126,7 +126,7 @@
 }
 
 /* Responsive: PI/Co-PI/Manager stack on narrow screens */
-@media (max-width: 520px) {
+@media (max-width: 720px) {
     .member-card.pi .member-img,
     .member-card.manager .member-img {
         float: none;
