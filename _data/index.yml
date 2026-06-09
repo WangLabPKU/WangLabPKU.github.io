@@ -1,0 +1,48 @@
+achievements:
+  - image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41594-025-01714-2/MediaObjects/41594_2025_1714_Fig1_HTML.png
+    alt: DdCBE-TOD figure
+    description: Developed a high-precision mitochondrial DNA cytosine base editor (DdCBE-TOD) based on AI-assisted protein design strategy, achieving single base precision fixed-point editing.
+    citation: 'Mi, Li &amp; Lv, et al. <i>Nature Structural &amp; Molecular Biology</i> 2025'
+    link: https://www.nature.com/articles/s41594-025-01714-2
+
+  - image: https://raw.githubusercontent.com/WangLabPKU/MAPIT-seq/refs/heads/main/workflow.jpg
+    alt: MAPIT-seq workflow
+    description: 'MAPIT-seq (modification added to RBP-interacting transcript sequencing): Co-profiling of in situ RNA-protein interactions and transcriptome in single cells and tissues.'
+    citation: 'Cheng &amp; Xie, et al. <i>Nature Methods</i> 2025'
+    link: https://www.nature.com/articles/s41592-025-02774-4
+
+  - image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01620-7/MediaObjects/41588_2023_1620_Fig1_HTML.png
+    alt: lncRNA conservation figure
+    description: Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human.
+    citation: 'Huang, Xiong, &amp; Zhao, et al. <i>Nature Genetics</i> 2024'
+    link: https://www.nature.com/articles/s41588-023-01620-7
+
+  - image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36600-2/MediaObjects/41467_2023_36600_Fig2_HTML.png
+    alt: DdCBE_Ss figure
+    description: Developed Ddd_Ss-derived cytosine base editors (DdCBE_Ss) and introduced mutations at multiple mitochondrial DNA loci including previously inaccessible GC context.
+    citation: 'Mi &amp; Shi, et al. <i>Nature Communications</i> 2023'
+    link: https://www.nature.com/articles/s41467-023-36600-2
+
+  - image: https://future.pku.edu.cn/images/2023-08/2869706d95794ecb9a5ae2daf90670cf.png
+    alt: Organoid platform figure
+    description: Highly reproducible and cost-effective one-pot organoid differentiation using a novel platform based on PF-127 triggered spheroid assembly.
+    citation: 'Zhang, et al. <i>Biofabrication</i> 2023'
+    link: https://iopscience.iop.org/article/10.1088/1758-5090/acee21
+
+  - image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41556-019-0292-7/MediaObjects/41556_2019_292_Fig1_HTML.png
+    alt: MICR platform figure
+    description: Invented miRNA inducible CRISPR-Cas9 platform (MICR) that can be used as a sensor for miRNA expression and cell-specific genome editing tool.
+    citation: 'Wang &amp; Hu, et al. <i>Nature Cell Biology</i> 2019'
+    link: http://www.nature.com/articles/s41556-019-0292-7
+
+  - image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3000324.g008
+    alt: ZGA pathway figure
+    description: Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells <i>in vitro</i>.
+    citation: 'Yan &amp; Zhang, et al. <i>PLOS Biology</i> 2019'
+    link: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000324
+
+  - image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-08911-w/MediaObjects/41467_2019_8911_Fig1_HTML.png
+    alt: lncRNA FGF/ERK figure
+    description: Identified a lncRNA regulating FGF/ERK signaling and self-renewal of ESCs.
+    citation: 'Li &amp; Duan, et al. <i>Nature Communications</i> 2019'
+    link: https://www.nature.com/articles/s41467-019-08911-w

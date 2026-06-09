@@ -5,8 +5,9 @@
 layout: home
 ---
 <link rel="stylesheet" href="../css/timeline.css">
+
 <div class="row">
-        <font color="#9f9f9f">Engineering uses science and math to solve real world problems. Cellular and Molecular Engineering uses the principles of engineering and life sciences to manipulate and understand biologic processes at cellular or molecular levels. Cells were discovered by Robert Hooke in 1665. Proteins were discovered by Antoine Fourcroy in 1789. Nucleic acids were discovered by Friedrich Miescher in 1868. In the 21st century, it is time to use principles we have learned from them to create something new, useful, and fun.</font>    </p>
+    <font color="#9f9f9f">Engineering uses science and math to solve real world problems. Cellular and Molecular Engineering uses the principles of engineering and life sciences to manipulate and understand biologic processes at cellular or molecular levels. Cells were discovered by Robert Hooke in 1665. Proteins were discovered by Antoine Fourcroy in 1789. Nucleic acids were discovered by Friedrich Miescher in 1868. In the 21st century, it is time to use principles we have learned from them to create something new, useful, and fun.</font>
     <h3>About us </h3>
     <div>
         Our lab has mainly focused on studying the molecular mechanisms controlling the self-renewal and cell fate determination of embryonic stem cells, especially those related to noncoding RNAs including microRNAs and long noncoding RNAs, the so called dark matter in cells. However, our current research mainly focuses on using interdisciplinary engineering approaches to develop new technologies addressing problems in RNA biology and stem cell biology. We are also interested in developing new genome editing tools. Devoted students and researchers with background in cell biology, molecular biology, biochemistry, chemistry, and bioinformatics with an ambition in creating new things to understand biology or benefit human health are always welcome to visit or join us.
@@ -14,158 +15,26 @@ layout: home
     <br>
 
     <h3>Major Achievements in past 10 years </h3>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px; ">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 44%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41594-025-01714-2/MediaObjects/41594_2025_1714_Fig1_HTML.png" style="width:98%;">
+
+    <div class="achievements-grid">
+        {% for item in site.data.index.achievements %}
+        <div class="achievement-card">
+            <div class="card">
+                <div class="card-img-wrapper">
+                    <img src="{{ item.image }}" alt="{{ item.alt }}">
                 </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">
-                            Developed a high-precision mitochondrial DNA cytosine base editor (DdCBE-TOD) based on AI-assisted protein design strategy, achieving single base precision fixed-point editing.
-                        </div>
-                        <p class="card-text">
-                            <a href="https://www.nature.com/articles/s41594-025-01714-2" target="_blank">
-                                <small class="text-muted">Mi, Li & Lv, et al. <i>Nature Structural &amp; Molecular Biology</i> 2025</small>
-                            </a>
-                        </p>
+                <div class="card-body">
+                    <div class="card-text">
+                        {{ item.description }}
                     </div>
+                    <p class="card-text">
+                        <a href="{{ item.link }}" target="_blank">
+                            <small class="text-muted">{{ item.citation }}</small>
+                        </a>
+                    </p>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 50%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://raw.githubusercontent.com/WangLabPKU/MAPIT-seq/refs/heads/main/workflow.jpg" alt="https://raw.githubusercontent.com/WangLabPKU/MAPIT-seq/refs/heads/main/workflow.jpg" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">MAPIT-seq (modification added to RBP-interacting transcript sequencing): Co-profiling of in situ RNA-protein interactions and transcriptome in single cells and tissues.</div>
-                        <p class="card-text">
-                            <a href="https://www.nature.com/articles/s41592-025-02774-4" target="_blank">
-                                <small class="text-muted">Cheng & Xie, et al. <i>Nature Methods</i> 2025</small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 50%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01620-7/MediaObjects/41588_2023_1620_Fig1_HTML.png" alt="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-023-01620-7/MediaObjects/41588_2023_1620_Fig1_HTML.png" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human.</div>
-                        <p class="card-text">
-                            <a href="https://www.nature.com/articles/s41588-023-01620-7" target="_blank">
-                                <small class="text-muted">Huang, Xiong, & Zhao, et al. <i>Nature Genetics</i> 2024</small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px; ">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 47%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36600-2/MediaObjects/41467_2023_36600_Fig2_HTML.png" alt="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36600-2/MediaObjects/41467_2023_36600_Fig2_HTML.png" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">Developed Ddd_Ss-derived cytosine base editors (DdCBE_Ss) and introduced mutations at multiple mitochondrial DNA loci including previously inaccessible GC context.<br></div>
-                        <p class="card-text">
-                            <a href="https://www.nature.com/articles/s41467-023-36600-2" target="_blank">
-                                <small class="text-muted">Mi & Shi, et al. <i>Nature Communications</i> 2023</small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 34%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://future.pku.edu.cn/images/2023-08/2869706d95794ecb9a5ae2daf90670cf.png" alt="https://future.pku.edu.cn/images/2023-08/2869706d95794ecb9a5ae2daf90670cf.png" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">Highly reproducible and cost-effective one-pot organoid differentiation using a novel platform based on PF-127 triggered spheroid assembly.</div>
-                        <p class="card-text">
-                            <a href="https://iopscience.iop.org/article/10.1088/1758-5090/acee21" target="_blank">
-                                <small class="text-muted">Zhang, et al. <i>Biofabrication</i> 2023</small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 34%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41556-019-0292-7/MediaObjects/41556_2019_292_Fig1_HTML.png" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">Invented miRNA inducible CRISPR-Cas9 platform (MICR) that can be used as a sensor for miRNA expression and cell-specific genome editing tool.</div>
-                        <p class="card-text">
-                            <a href="http://www.nature.com/articles/s41556-019-0292-7" target="_blank">
-                                <small class="text-muted">Wang & Hu, et al. <i>Nature Cell Biology</i> 2019<br></small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 37%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.3000324.g008" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">Discovered the novel molecular pathway, PIAS4-SUMO2-DPPA2/4, regulating zygotic genome activation (ZGA) in early embryonic development and transformation of totipotent stem cells <i>in vitro</i>.</div>
-                        <p class="card-text">
-                            <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000324" target="_blank">
-                                <small class="text-muted">Yan & Zhang, et al. <i>PLOS Biology</i> 2019</small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-4" style="max-width: 496px; float: left; margin: 4px">
-        <div class="card">
-            <div class="row g-0">
-                <div class="col-md-7" style="margin:2px; text-align:center; width:100%; height:0; padding-bottom: 49%; overflow:hidden; background-position: center center; background-repeat: no-repeat; -webkit-background-size:cover; -moz-background-size:cover; background-size:cover;">
-                    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-08911-w/MediaObjects/41467_2019_8911_Fig1_HTML.png" alt="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-36600-2/MediaObjects/41467_2023_36600_Fig2_HTML.png" style="width:98%;">
-                </div>
-                <div class="col-md-12">
-                    <div class="card-body">
-                        <div class="card-text">Identified a lncRNA regulating FGF/ERK signaling and self-renewal of ESCs.</div>
-                        <p class="card-text">
-                            <a href="https://www.nature.com/articles/s41467-019-08911-w" target="_blank">
-                                <small class="text-muted">Li & Duan, et al. <i>Nature Communications</i> 2019</small>
-                            </a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+        {% endfor %}
+    </div><!-- /.achievements-grid -->
 </div>
