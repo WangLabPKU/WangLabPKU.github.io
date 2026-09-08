@@ -25,14 +25,6 @@
   url: 
   visible: True
 
-- name: Lu-Feng Hu
-  role: Postdoc
-  img: /img/members/hlf.jpg
-  bio: Peking University, PhD  
-  research: Biotechnology
-  url: 
-  visible: True
-
 - name: Kang-Wei Wang
   role: Postdoc
   img: /img/members/wkw.jpg
@@ -41,11 +33,12 @@
   url: 
   visible: True
 
-- name: Ming Shi
-  role: PhD Student
-  img: /img/members/sming.jpg
-  bio: Qufu Normal University  
-  research: Early embryonic development
+- name: Gang Xie
+  role: Postdoc
+  img: /img/members/xg.jpg
+  github: JeremyTse
+  bio: Peking University, PhD
+  research: RNA Bioinformatics
   url: 
   visible: True
 
@@ -54,15 +47,6 @@
   img: /img/members/cqx.jpg
   bio: China Agricutural University, Bachelor  
   research: Biotechnology
-  url: 
-  visible: True
-
-- name: Gang Xie
-  role: PhD Student
-  img: /img/members/xg.jpg
-  github: JeremyTse
-  bio: Huazhong University of Science and Technology, Bachelor 
-  research: RNA Bioinformatics
   url: 
   visible: True
 
@@ -197,7 +181,7 @@
 - name: Han Wu
   role: Undergraduate
   img: /img/members/wh.jpg
-  bio: Anhui Normal University
+  bio: Anhui Normal University, Bachelor
   research: Biotechnology
   url: 
   visible: True
@@ -205,7 +189,7 @@
 - name: Han-Kai Yang
   role: Undergraduate
   img: /img/members/yhk.jpg
-  bio: Dalian University of Technology
+  bio: Dalian University of Technology, Bachelor
   research: Bioinformatics
   url: 
   visible: True
@@ -325,6 +309,16 @@
 
 - name: Wang Yao
   role: Postdoc
+  bio: 
+  visible: False
+
+- name: Lu-Feng Hu
+  role: PhD Graduate, Postdoc
+  bio: PI at Nanchang University
+  visible: False
+
+- name: Ming Shi
+  role: Assistant, PhD Graduate
   bio: 
   visible: False
 
