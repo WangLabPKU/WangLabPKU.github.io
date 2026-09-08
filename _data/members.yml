@@ -179,7 +179,7 @@
   visible: True
 
 - name: Han Wu
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/wh.jpg
   bio: Anhui Normal University, Bachelor
   research: Biotechnology
@@ -187,7 +187,7 @@
   visible: True
 
 - name: Han-Kai Yang
-  role: Undergraduate
+  role: PhD Student
   img: /img/members/yhk.jpg
   bio: Dalian University of Technology, Bachelor
   research: Bioinformatics
